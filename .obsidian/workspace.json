@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "3a1c9ab7ca064959",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfab389f055ebcc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499f8edea2d37526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript Style Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57ceac79f55e1c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript Style Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ff59c076f1f8c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React file structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca049f5531f45bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "22739b2d86548417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44d07ab6c3b4f5ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbe68ca32d058f81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#good-practice",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ae2bcc9186be9ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71ad39c452bf6374",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fa842af6d7e2d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d7ccf4a431da1e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TypeScript Style Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0fcc03872183c6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TypeScript Style Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c98812303729b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb7b52fd30536086",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TypeScript Style Guide.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "499f8edea2d37526",
+  "lastOpenFiles": [
+    "React.md",
+    "TypeScript Style Guide.md",
+    "React file structure.md",
+    "The best comment is no comment at all.md",
+    "Do not use the `Array` constructor.md",
+    "One variable per declaration.md",
+    "images/react-file-structure.png",
+    "React-named-effects.md",
+    "JSDocs.md",
+    "images",
+    "JSDocs-@fileoverview.md",
+    "TypeScript-exports.md",
+    "TypeScript-imports.md",
+    "Use const and let.md",
+    "File-Structure.md",
+    "**The best comment is not comment at all**.md",
+    "The best comment is not comment at all.md"
+  ]
+}
