@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f26a9cad921a1e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Casa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git-fomo.md",
+                "file": "Casa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git-fomo.md",
+                "file": "Casa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git-fomo.md"
+                "file": "Casa.md"
               }
             }
           }
@@ -145,13 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "499f8edea2d37526",
+  "active": "f26a9cad921a1e13",
   "lastOpenFiles": [
+    "Git-fomo.md",
+    "Casa.md",
     "Git.md",
     "The best comment is no comment at all.md",
     "TypeScript Style Guide (Atomic Mode - Draft).md",
     "React-named-effects.md",
-    "Git-fomo.md",
     "Git - Get main branch name.md",
     "React.md",
     "React file structure.md",
