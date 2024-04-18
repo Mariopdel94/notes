@@ -1,5 +1,6 @@
 #source #documentation  #styleguide #typescript
 
+For finished (in a single note) file see: [[TypeScript Style Guide (Complete)]]
 # File Structure
 	[[JSDocs]]
 	[[TypeScript-imports]]

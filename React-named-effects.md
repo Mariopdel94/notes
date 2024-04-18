@@ -1,4 +1,4 @@
-#good-practice 
+#react #good-practice 
 
 Use named functions inside the effects instead of an empty arrow callback.
 

@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript Style Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57ceac79f55e1c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript Style Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ff59c076f1f8c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React file structure.md",
+                "file": "Git-fomo.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#good-practice",
+                "query": "tag:git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript Style Guide.md",
+                "file": "Git-fomo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript Style Guide.md",
+                "file": "Git-fomo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript Style Guide.md"
+                "file": "Git-fomo.md"
               }
             }
           }
@@ -172,14 +147,18 @@
   },
   "active": "499f8edea2d37526",
   "lastOpenFiles": [
-    "React.md",
-    "TypeScript Style Guide.md",
-    "React file structure.md",
+    "Git.md",
     "The best comment is no comment at all.md",
+    "TypeScript Style Guide (Atomic Mode - Draft).md",
+    "React-named-effects.md",
+    "Git-fomo.md",
+    "Git - Get main branch name.md",
+    "React.md",
+    "React file structure.md",
+    "TypeScript Style Guide (Complete).md",
     "Do not use the `Array` constructor.md",
     "One variable per declaration.md",
     "images/react-file-structure.png",
-    "React-named-effects.md",
     "JSDocs.md",
     "images",
     "JSDocs-@fileoverview.md",
