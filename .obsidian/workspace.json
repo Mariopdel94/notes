@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "499f8edea2d37526",
+            "id": "f26a9cad921a1e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f26a9cad921a1e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Casa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:git",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Casa.md",
+                "file": "Git-fomo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Casa.md",
+                "file": "Git-fomo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Casa.md"
+                "file": "Git-fomo.md"
               }
             }
           }
@@ -160,17 +147,17 @@
   },
   "active": "f26a9cad921a1e13",
   "lastOpenFiles": [
+    "Git - Get main branch name.md",
     "Git-fomo.md",
-    "Casa.md",
     "Git.md",
+    "Do not use the `Array` constructor.md",
+    "Casa.md",
     "The best comment is no comment at all.md",
     "TypeScript Style Guide (Atomic Mode - Draft).md",
     "React-named-effects.md",
-    "Git - Get main branch name.md",
     "React.md",
     "React file structure.md",
     "TypeScript Style Guide (Complete).md",
-    "Do not use the `Array` constructor.md",
     "One variable per declaration.md",
     "images/react-file-structure.png",
     "JSDocs.md",

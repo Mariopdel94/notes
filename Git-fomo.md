@@ -2,8 +2,6 @@
 
 A nice trick to automatically merge the main branch into a feature branch is by this `git alias`
 
-Some new change
-
 ```
 .gitconfig
 [alias]
