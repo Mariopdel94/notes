@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naming conventions.md",
+                "file": "Git - Get main branch name.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boolean",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naming conventions.md",
+                "file": "Git - Get main branch name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naming conventions.md",
+                "file": "Git - Get main branch name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naming conventions.md"
+                "file": "Git - Get main branch name.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,16 +172,16 @@
   },
   "active": "f26a9cad921a1e13",
   "lastOpenFiles": [
+    "Git-fomo.md",
+    "Naming conventions.md",
+    "Git.md",
     "React file structure.md",
     "TypeScript Style Guide (Complete).md",
-    "Naming conventions.md",
     "React-named-effects.md",
     "React.md",
     "The best comment is no comment at all.md",
     "10067 Differences.md",
-    "Git-fomo.md",
     "Git - Get main branch name.md",
-    "Git.md",
     "One variable per declaration.md",
     "JSDocs-@fileoverview.md",
     "TypeScript-exports.md",
