@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfab389f055ebcc7",
+        "id": "6485299728329c04",
         "type": "tabs",
         "children": [
           {
-            "id": "f26a9cad921a1e13",
+            "id": "cc7d501caff60759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git - Get main branch name.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2345f47971a8409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript Style Guide (Complete).md",
+                "file": "React file structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git - Get main branch name.md",
+                "file": "React file structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git - Get main branch name.md",
+                "file": "React file structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git - Get main branch name.md"
+                "file": "React file structure.md"
               }
             }
           },
@@ -170,18 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f26a9cad921a1e13",
+  "active": "cc7d501caff60759",
   "lastOpenFiles": [
-    "Git-fomo.md",
-    "Naming conventions.md",
-    "Git.md",
+    "images/react-file-structure.png",
     "React file structure.md",
+    "React file structure.pdf",
     "TypeScript Style Guide (Complete).md",
+    "Naming conventions.md",
+    "The best comment is no comment at all.md",
+    "Git - Get main branch name.md",
+    "Git-fomo.md",
+    "Git.md",
     "React-named-effects.md",
     "React.md",
-    "The best comment is no comment at all.md",
     "10067 Differences.md",
-    "Git - Get main branch name.md",
     "One variable per declaration.md",
     "JSDocs-@fileoverview.md",
     "TypeScript-exports.md",
@@ -189,7 +179,6 @@
     "Do not use the `Array` constructor.md",
     "Casa.md",
     "TypeScript Style Guide (Atomic Mode - Draft).md",
-    "images/react-file-structure.png",
     "JSDocs.md",
     "images",
     "Use const and let.md",
