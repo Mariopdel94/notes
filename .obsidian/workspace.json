@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18dde7e213d51592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React file structure.md",
+                "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React file structure.md",
+                "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React file structure.md"
+                "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md"
               }
             }
           },
@@ -158,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc7d501caff60759",
+  "active": "18dde7e213d51592",
   "lastOpenFiles": [
-    "images/react-file-structure.png",
+    "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
     "React file structure.md",
+    "images/react-file-structure.png",
     "React file structure.pdf",
     "TypeScript Style Guide (Complete).md",
     "Naming conventions.md",
