@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "cssTheme": "Dracula for Obsidian",
   "baseFontSizeAction": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "translucency": false
 }
