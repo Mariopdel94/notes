@@ -48,3 +48,6 @@ This is not declarative because both of this **values are changed in ways that a
 
 In this particular example, we would need to search for `myData` to see that it is being set in the `ngOnInit` after the data from `getData` has loaded.
 
+## How do we refactor this?
+
+[[Angular - Make sure things never change (Refactor)]]
