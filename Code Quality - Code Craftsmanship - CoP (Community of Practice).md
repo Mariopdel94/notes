@@ -13,11 +13,15 @@ Notes:
 [[Maintenance over producing]]
 When we spend more of our time maintaining the codebase, we should focus more on how to facilitate it than focusing on "creating" new code. 
 
+## Clean code
+>We are going to look at code from every different direction. We’ll look down at it from the top, up at it from the bottom, and through it from the inside out. By the time we are done, we’re going to know a lot about code. What’s more, we’ll be able to tell the **difference between good code and bad code**. We’ll know how to write good code. And **we’ll know how to transform bad code into good code.**
+
+
 # Angular specific
  
 ## Convert **imperative** code to **reactive** code.
 
-Some of the key ides you can use to convert imperative code to a more reactive pattern are two *Karen* inspired rules you can follow to get more into that declarative/reactive pattern mindset:
+Some of the key ideas you can use to convert imperative code to a more reactive pattern are two *Karen* inspired rules you can follow to get more into that declarative/reactive pattern mindset:
 
 1. [[Angular - Make sure things never change]]
 2. [[Angular - "I want to speak to your manager"]]

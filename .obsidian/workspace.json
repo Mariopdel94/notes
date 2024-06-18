@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,14 +163,14 @@
   },
   "active": "1f957323cd8eb17b",
   "lastOpenFiles": [
-    "Small things matter.md",
+    "Angular - Make sure things never change (Refactor).md",
+    "Angular - Make sure things never change.md",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
+    "Small things matter.md",
     "Drawing 2024-06-18 14.01.07.excalidraw.md",
     "Angular - \"I want to speak to your manager\".md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 13.03.18.excalidraw.md",
-    "Angular - Make sure things never change.md",
-    "Angular - Make sure things never change (Refactor).md",
     "Angular - \"I want to speak to your manager\" (Refactor).md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.36.06.excalidraw.md",
     "Maintenance over producing.md",
