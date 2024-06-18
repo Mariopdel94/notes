@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "865cbd1686f500f2",
+        "id": "01f4f15181bc03f4",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e94f7def58243b",
+            "id": "1f957323cd8eb17b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23c2edc4307314d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular - Make sure things never change (Refactor).md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -153,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,17 +160,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7e94f7def58243b",
+  "active": "1f957323cd8eb17b",
   "lastOpenFiles": [
+    "Small things matter.md",
+    "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
+    "Drawing 2024-06-18 14.01.07.excalidraw.md",
+    "Angular - \"I want to speak to your manager\".md",
+    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
+    "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 13.03.18.excalidraw.md",
     "Angular - Make sure things never change.md",
     "Angular - Make sure things never change (Refactor).md",
-    "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
-    "Angular - \"I want to speak to your manager\".md",
     "Angular - \"I want to speak to your manager\" (Refactor).md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.36.06.excalidraw.md",
     "Maintenance over producing.md",
-    "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 13.03.18.excalidraw.md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 12.59.05.excalidraw.md",
     "Imperative variable definitions.md",
     "Declarative variable definitions.md",
@@ -195,7 +187,6 @@
     "Untitled.canvas",
     "Untitled.md",
     "React file structure.md",
-    "Small things matter.md",
     "images/react-file-structure.png",
     "TypeScript Style Guide (Complete).md",
     "Naming conventions.md",
@@ -205,7 +196,6 @@
     "Git.md",
     "React-named-effects.md",
     "React.md",
-    "10067 Differences.md",
     "images"
   ]
 }

@@ -14,13 +14,14 @@ Notes:
 When we spend more of our time maintaining the codebase, we should focus more on how to facilitate it than focusing on "creating" new code. 
 
 # Angular specific
- Convert **imperative** code to **reactive** code.
+ 
+## Convert **imperative** code to **reactive** code.
 
 Some of the key ides you can use to convert imperative code to a more reactive pattern are two *Karen* inspired rules you can follow to get more into that declarative/reactive pattern mindset:
 
 1. [[Angular - Make sure things never change]]
 2. [[Angular - "I want to speak to your manager"]]
-## Refactor code!
+### Refactor code!
 Okay, we now know that imperative is bad and we should avoid and reactive is good. But how do we apply these two rules?
 
 1. [[Angular - Make sure things never change (Refactor)]]
