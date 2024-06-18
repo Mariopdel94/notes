@@ -22,5 +22,5 @@ Some of the key ides you can use to convert imperative code to a more reactive p
 1. Make sure things never change
 2. "I want to speak to your manager"
 
-
+  
 
