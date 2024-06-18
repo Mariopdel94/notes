@@ -1,4 +1,4 @@
-#clean-code
+#source #clean-code
 
 Notes:
 * A very big part of this CoP could be code review of existing code from members

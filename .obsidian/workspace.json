@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#clean-code",
+                "query": "tag:#source",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -78,13 +78,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "eb7b52fd30536086",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 696.5
   },
   "right": {
     "id": "71ad39c452bf6374",
@@ -135,16 +145,6 @@
             }
           },
           {
-            "id": "eb7b52fd30536086",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md"
-              }
-            }
-          },
-          {
             "id": "0b157bb9cda48147",
             "type": "leaf",
             "state": {
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,38 +178,38 @@
   "lastOpenFiles": [
     "Small things matter.md",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
-    "The Boy Scout Rule.md",
+    "images/react-file-structure.png",
     "Angular - Make sure things never change (Refactor).md",
-    "Angular - Make sure things never change.md",
+    "PDFs/React file structure.pdf",
+    "Casa.md",
+    "Declarative variable definitions.md",
+    "JSDocs.md",
+    "Git-fomo.md",
+    "Git - Get main branch name.md",
+    "Git.md",
     "Drawing 2024-06-18 14.01.07.excalidraw.md",
+    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.36.06.excalidraw.md",
+    "images/Pasted Image 20240618123827_830.png",
+    "React.md",
+    "React file structure.md",
+    "React-named-effects.md",
+    "The best comment is no comment at all.md",
+    "TypeScript Style Guide (Complete).md",
+    "TypeScript Style Guide (Atomic Mode - Draft).md",
+    "TypeScript-exports.md",
+    "TypeScript-imports.md",
+    "Use const and let.md",
+    "Angular - Make sure things never change.md",
+    "Code Quality - Code Craftsmanship - CoP (Community of Practice).pdf",
+    "The Boy Scout Rule.md",
     "Angular - \"I want to speak to your manager\".md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 13.03.18.excalidraw.md",
-    "Angular - \"I want to speak to your manager\" (Refactor).md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.36.06.excalidraw.md",
-    "Maintenance over producing.md",
-    "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 12.59.05.excalidraw.md",
-    "Imperative variable definitions.md",
-    "Declarative variable definitions.md",
     "images/Pasted image 20240618120504.png",
-    "Pasted Image 20240618123827_830.png",
     "images/Pasted image 20240618114222.png",
-    "PDFs/React file structure.pdf",
     "PDFs",
-    "Excalidraw/Code Quality - Code Craftsmanship - CoP (Community of Practice) 2024-06-18 12.24.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-18 12.21.57.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
-    "Untitled.md",
-    "React file structure.md",
-    "images/react-file-structure.png",
-    "TypeScript Style Guide (Complete).md",
-    "Naming conventions.md",
-    "The best comment is no comment at all.md",
-    "Git - Get main branch name.md",
-    "Git-fomo.md",
-    "Git.md",
-    "React-named-effects.md",
     "images"
   ]
 }
