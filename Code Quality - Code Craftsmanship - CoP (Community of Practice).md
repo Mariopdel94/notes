@@ -13,9 +13,22 @@ Notes:
 [[Maintenance over producing]]
 When we spend more of our time maintaining the codebase, we should focus more on how to facilitate it than focusing on "creating" new code. 
 
-## Clean code
 >We are going to look at code from every different direction. We’ll look down at it from the top, up at it from the bottom, and through it from the inside out. By the time we are done, we’re going to know a lot about code. What’s more, we’ll be able to tell the **difference between good code and bad code**. We’ll know how to write good code. And **we’ll know how to transform bad code into good code.**
 
+[[The Boy Scout Rule]]
+
+## What is "clean code"?
+
+According to Grady Booch, author of Object Oriented Analysis and Design with Applications. 
+
+>Clean code is simple and direct. Clean code reads like well-written prose. Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of control.
+
+## Bad code
+Have you ever been significantly **impeded by bad code**? If you are a programmer of any experience, then **of course you have**. 
+
+We try to find our way through bad code, hoping to get some hint, some idea, some clue of what the *** is going on... But all we see is more and more **senseless** code.
+
+So, of course you've been impeded by bad code. But then... **why did you write it?**
 
 # Angular specific
  
