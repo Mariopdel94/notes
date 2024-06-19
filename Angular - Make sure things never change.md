@@ -4,9 +4,7 @@
 ## "Make sure things never change"
   ![[Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw|1920xauto]]
 
-The key problem is that we have these variables that hold values,
-and we change those by reassigning them imperatively throughout
-the life of the application
+The key problem is that we have these variables that hold values, and we change those by reassigning them imperatively throughout the life of the application
 
 For example, we might have a class member to hold some data, which might be `undefined` initially or in this case just an empty array 
 
