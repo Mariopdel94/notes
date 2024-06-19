@@ -28,7 +28,7 @@ According to Grady Booch, author of Object Oriented Analysis and Design with App
 ## Bad code
 Have you ever been significantly **impeded by bad code**? If you are a programmer of any experience, then **of course you have**. 
 
-We try to find our way through bad code, hoping to get some hint, some idea, some clue of what the *** is going on... But all we see is more and more **senseless** code.
+We try to find our way through bad code, hoping to get some hint, some idea, some clue of what the \*\*\* is going on... But all we see is more and more **senseless** code.
 
 So, of course you've been impeded by bad code. But then... **why did you write it?**
 

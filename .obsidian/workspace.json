@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Code Quality - Code Craftsmanship.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,15 +163,17 @@
   },
   "active": "1f957323cd8eb17b",
   "lastOpenFiles": [
-    "Git-fomo.md",
-    "Git.md",
+    "Angular - Make sure things never change.md",
     "Code Quality - Code Craftsmanship.md",
+    "Angular - Make sure things never change (Refactor).md",
+    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Intention-Revealing Names (Example).md",
     "Use Intention-Revealing Names.md",
-    "Angular - Make sure things never change.md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
-    "Angular - Make sure things never change (Refactor).md",
+    "The Boy Scout Rule.md",
+    "Maintenance over producing.md",
     "Small things matter.md",
+    "Git-fomo.md",
+    "Git.md",
     "images/react-file-structure.png",
     "PDFs/React file structure.pdf",
     "Casa.md",
@@ -191,8 +193,6 @@
     "TypeScript-imports.md",
     "Use const and let.md",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).pdf",
-    "The Boy Scout Rule.md",
-    "Angular - \"I want to speak to your manager\".md",
     "images/Pasted image 20240618120504.png",
     "images/Pasted image 20240618114222.png",
     "PDFs",
