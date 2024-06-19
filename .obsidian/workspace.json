@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -78,23 +78,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "eb7b52fd30536086",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 696.5
+    "width": 275.5
   },
   "right": {
     "id": "71ad39c452bf6374",
@@ -155,9 +144,19 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "eb7b52fd30536086",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code Quality - Code Craftsmanship - CoP (Community of Practice).md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,8 +175,10 @@
   },
   "active": "1f957323cd8eb17b",
   "lastOpenFiles": [
-    "Small things matter.md",
+    "Angular - Make sure things never change.md",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).md",
+    "Small things matter.md",
+    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "images/react-file-structure.png",
     "Angular - Make sure things never change (Refactor).md",
     "PDFs/React file structure.pdf",
@@ -199,11 +200,9 @@
     "TypeScript-exports.md",
     "TypeScript-imports.md",
     "Use const and let.md",
-    "Angular - Make sure things never change.md",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).pdf",
     "The Boy Scout Rule.md",
     "Angular - \"I want to speak to your manager\".md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 13.03.18.excalidraw.md",
     "images/Pasted image 20240618120504.png",
     "images/Pasted image 20240618114222.png",
