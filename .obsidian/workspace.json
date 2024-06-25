@@ -4,17 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "01f4f15181bc03f4",
+        "id": "2e692b3c0c2563b9",
         "type": "tabs",
         "children": [
           {
-            "id": "1f957323cd8eb17b",
+            "id": "5c98971ca623c475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Code Quality - Code Craftsmanship.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f7fef6a698714e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naming Boolean variables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa8272a3112d5761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Make meaningful context.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#source",
+                "query": "boolean",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -160,18 +186,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f957323cd8eb17b",
+  "active": "5c98971ca623c475",
   "lastOpenFiles": [
+    "Class names should be nouns.md",
+    "Method names should be verbs.md",
+    "Make meaningful context.md",
+    "Code Quality - Code Craftsmanship.md",
+    "Naming Boolean variables.md",
+    "[dyslexia.md",
+    "Dyslexia.md",
+    "Make meaningful distinctions.md",
+    "[Modal.md",
+    "[English.md",
+    "Use Intention-Revealing Names.md",
+    "Intention-Revealing Names (Example).md",
     "Styling issues.md",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
     "Pasted image 20240625101927.png",
-    "Code Quality - Code Craftsmanship.md",
     "Angular - Make sure things never change.md",
     "Angular - Make sure things never change (Refactor).md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
-    "Intention-Revealing Names (Example).md",
-    "Use Intention-Revealing Names.md",
     "The Boy Scout Rule.md",
     "Maintenance over producing.md",
     "Small things matter.md",
@@ -184,15 +219,7 @@
     "JSDocs.md",
     "Git - Get main branch name.md",
     "Drawing 2024-06-18 14.01.07.excalidraw.md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.36.06.excalidraw.md",
     "images/Pasted Image 20240618123827_830.png",
-    "React.md",
-    "React file structure.md",
-    "React-named-effects.md",
-    "The best comment is no comment at all.md",
-    "TypeScript Style Guide (Complete).md",
-    "TypeScript Style Guide (Atomic Mode - Draft).md",
-    "TypeScript-exports.md",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).pdf",
     "images/Pasted image 20240618120504.png",
     "images/Pasted image 20240618114222.png",

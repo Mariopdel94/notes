@@ -32,8 +32,18 @@ We try to find our way through bad code, hoping to get some hint, some idea, som
 
 So, of course you've been impeded by bad code. But then... **why did you write it?**
 
-## Use Intention-Revealing Names
-[[Use Intention-Revealing Names| It is easy to say that names should reveal intent. Choosing good names usually takes time, and thinking, but reading the code afterwards saves more time than it. The name of a variable, method, function, class, should always reveal its intention ]]
+## Meaningful names
+
+There are many naming rules and conventions but that is for you to decide which rules to implement in your codebase and how to implement them. Regardless most common ones are:
+
+* Use Intention-Revealing Names. [[Use Intention-Revealing Names| It is easy to say that names should reveal intent. Choosing good names usually takes time, and thinking, but reading the code afterwards saves more time than it. The name of a variable, method, function, class, should always reveal its intention ]]
+* Avoid names that vary in small ways. 
+* [[Make meaningful distinctions|Make meaningful distinctions - Distinguish names in such a way that the reader knows what the differences offer.]]
+* Use pronounceable names. Avoid names like `genymdhms` which are unpronounceable and doesn't reveal intent from the get-go. Instead `generationTimestamp` allows for an intelligent English conversation with your peers.
+* [[Class names should be nouns]]. Never verbs
+* [[Method names should be verbs]]. 
+* [[Naming Boolean variables|Booleans must start with an `is` prefix, or a modal verb]]
+* [[Make meaningful context]]. If you read  the variable `state` what do you think it means?
 
 # Angular specific
  

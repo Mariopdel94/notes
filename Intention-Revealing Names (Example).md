@@ -53,3 +53,4 @@ public getFlaggedCells(): Cell[] {
 ```
 
 Notice how the code now is incredible simple to read and immediately understand what it does. [[Code Quality - Code Craftsmanship#^639e63|Clean code reads like well-written prose]] 
+
