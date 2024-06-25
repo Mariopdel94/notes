@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f32da7025c5f1fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Styling issues.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Styling issues.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Styling issues.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Styling issues.md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -174,10 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f32da7025c5f1fa6",
+  "active": "1f957323cd8eb17b",
   "lastOpenFiles": [
-    "Pasted image 20240625100005.png",
     "Styling issues.md",
+    "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
     "Pasted image 20240625101927.png",
     "Code Quality - Code Craftsmanship.md",
