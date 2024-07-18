@@ -26,8 +26,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide for React experimental debugger.md",
+                "file": "React.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dba4fc0d990207d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React blank file template.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -39,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naming Boolean variables.md",
+                "file": "React-named-effects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide for React experimental debugger.md",
+                "file": "React blank file template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guide for React experimental debugger.md",
+                "file": "React blank file template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guide for React experimental debugger.md"
+                "file": "React blank file template.md"
               }
             }
           }
@@ -200,39 +213,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f80239018c125940",
+  "active": "6dba4fc0d990207d",
   "lastOpenFiles": [
+    "React.md",
+    "React blank file template.md",
+    "Maintenance over producing.md",
+    "Code Quality - Code Craftsmanship.md",
+    "Small things matter.md",
+    "React file structure.md",
+    "React-named-effects.md",
+    "Make meaningful context.md",
+    "Intention-Revealing Names (Example).md",
+    "Use Intention-Revealing Names.md",
+    "Naming Boolean variables.md",
     "Pasted image 20240625124222.png",
+    "Angular - \"I want to speak to your manager\".md",
     "Angular - Make sure things never change.md",
     "Guide for React experimental debugger.md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
-    "Code Quality - Code Craftsmanship.md",
     "Class names should be nouns.md",
     "Method names should be verbs.md",
-    "Make meaningful context.md",
-    "Naming Boolean variables.md",
     "[dyslexia.md",
     "Dyslexia.md",
     "Make meaningful distinctions.md",
     "[Modal.md",
     "[English.md",
-    "Use Intention-Revealing Names.md",
-    "Intention-Revealing Names (Example).md",
     "Styling issues.md",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
     "Pasted image 20240625101927.png",
     "Angular - Make sure things never change (Refactor).md",
     "The Boy Scout Rule.md",
-    "Maintenance over producing.md",
-    "Small things matter.md",
     "Git-fomo.md",
-    "Git.md",
     "images/react-file-structure.png",
     "PDFs/React file structure.pdf",
-    "Casa.md",
-    "Declarative variable definitions.md",
-    "JSDocs.md",
     "images/Pasted Image 20240618123827_830.png",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).pdf",
     "images/Pasted image 20240618120504.png",
