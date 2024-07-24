@@ -8,72 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c98971ca623c475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular - Make sure things never change.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f80239018c125940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6dba4fc0d990207d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React blank file template.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3f7fef6a698714e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React-named-effects.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa8272a3112d5761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Make meaningful context.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React blank file template.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React blank file template.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React blank file template.md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -215,20 +162,22 @@
   },
   "active": "6dba4fc0d990207d",
   "lastOpenFiles": [
-    "React.md",
-    "React blank file template.md",
-    "Maintenance over producing.md",
+    "Angular - Make sure things never change.md",
     "Code Quality - Code Craftsmanship.md",
-    "Small things matter.md",
+    "Functions - First Rule.md",
+    "The best comment is no comment at all.md",
     "React file structure.md",
+    "Use Intention-Revealing Names.md",
+    "React blank file template.md",
+    "React.md",
+    "Maintenance over producing.md",
+    "Small things matter.md",
     "React-named-effects.md",
     "Make meaningful context.md",
     "Intention-Revealing Names (Example).md",
-    "Use Intention-Revealing Names.md",
     "Naming Boolean variables.md",
     "Pasted image 20240625124222.png",
     "Angular - \"I want to speak to your manager\".md",
-    "Angular - Make sure things never change.md",
     "Guide for React experimental debugger.md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Class names should be nouns.md",
@@ -243,8 +192,6 @@
     "Pasted image 20240625101016.png",
     "Pasted image 20240625101927.png",
     "Angular - Make sure things never change (Refactor).md",
-    "The Boy Scout Rule.md",
-    "Git-fomo.md",
     "images/react-file-structure.png",
     "PDFs/React file structure.pdf",
     "images/Pasted Image 20240618123827_830.png",

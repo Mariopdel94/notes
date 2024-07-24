@@ -45,6 +45,12 @@ There are many naming rules and conventions but that is for you to decide which 
 * [[Naming Boolean variables|Booleans must start with an `is` prefix, or a modal verb]]
 * [[Make meaningful context]]. If you read  the variable `state` what do you think it means?
 
+## Functions
+
+![[Functions - First Rule]]
+### Blocks and Indenting
+Given the [[Functions - First Rule|first functions rule]] this means that `if`, `else` and `switch` statements **should be one line long**. This does not only ensures the function is kept small, but it also adds documentary value by having a nice descriptive name. This also implies that functions should not hold nested structures it should not be greater than one or two levels.
+
 # Angular specific
  
 ## Convert **imperative** code to **reactive** code.
