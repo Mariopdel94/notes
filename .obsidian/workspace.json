@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular - Make sure things never change (Refactor).md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular - Make sure things never change (Refactor).md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular - Make sure things never change (Refactor).md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular - Make sure things never change (Refactor).md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -162,36 +162,36 @@
   },
   "active": "6dba4fc0d990207d",
   "lastOpenFiles": [
-    "Angular - Make sure things never change.md",
+    "Maintenance over producing.md",
     "Code Quality - Code Craftsmanship.md",
+    "Intention-Revealing Names (Example).md",
+    "Angular - \"I want to speak to your manager\".md",
+    "The best comment is no comment at all.md",
+    "React file structure.md",
+    "Angular - \"I want to speak to your manager\" (Refactor).md",
+    "Declarative variable definitions.md",
+    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
+    "Angular - Make sure things never change.md",
+    "Angular - Make sure things never change (Refactor).md",
     "Make meaningful context.md",
     "Naming Boolean variables.md",
     "Class names should be nouns.md",
     "Make meaningful distinctions.md",
     "Use Intention-Revealing Names.md",
-    "Intention-Revealing Names (Example).md",
-    "The best comment is no comment at all.md",
     "Functions - First Rule.md",
-    "React file structure.md",
     "React blank file template.md",
     "React.md",
-    "Maintenance over producing.md",
     "Small things matter.md",
     "React-named-effects.md",
     "Pasted image 20240625124222.png",
-    "Angular - \"I want to speak to your manager\".md",
     "Guide for React experimental debugger.md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Method names should be verbs.md",
     "[dyslexia.md",
     "Dyslexia.md",
     "[Modal.md",
-    "[English.md",
-    "Styling issues.md",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
     "Pasted image 20240625101927.png",
-    "Angular - Make sure things never change (Refactor).md",
     "images/react-file-structure.png",
     "PDFs/React file structure.pdf",
     "images/Pasted Image 20240618123827_830.png",

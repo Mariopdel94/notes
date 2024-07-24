@@ -3,6 +3,8 @@
 Notes to self:
 * A very big part of this CoP could be code review of existing code from members
 * Shoot for getting one person from each team to be a part of this CoP
+* How is clean code measured by each own standards and practices?
+* Get good practices in other languages
 
 # Clean Code
 
