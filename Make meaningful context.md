@@ -19,3 +19,4 @@ const client: Client & Person = {
 ```
 
 Now you can access `this.client.address.state` and is clear the intent, and the context of this variable.
+

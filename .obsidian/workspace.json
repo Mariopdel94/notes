@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Angular - Make sure things never change (Refactor).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Angular - Make sure things never change (Refactor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Angular - Make sure things never change (Refactor).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md"
+                "file": "Angular - Make sure things never change (Refactor).md"
               }
             }
           }
@@ -164,27 +164,27 @@
   "lastOpenFiles": [
     "Angular - Make sure things never change.md",
     "Code Quality - Code Craftsmanship.md",
-    "Functions - First Rule.md",
-    "The best comment is no comment at all.md",
-    "React file structure.md",
+    "Make meaningful context.md",
+    "Naming Boolean variables.md",
+    "Class names should be nouns.md",
+    "Make meaningful distinctions.md",
     "Use Intention-Revealing Names.md",
+    "Intention-Revealing Names (Example).md",
+    "The best comment is no comment at all.md",
+    "Functions - First Rule.md",
+    "React file structure.md",
     "React blank file template.md",
     "React.md",
     "Maintenance over producing.md",
     "Small things matter.md",
     "React-named-effects.md",
-    "Make meaningful context.md",
-    "Intention-Revealing Names (Example).md",
-    "Naming Boolean variables.md",
     "Pasted image 20240625124222.png",
     "Angular - \"I want to speak to your manager\".md",
     "Guide for React experimental debugger.md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
-    "Class names should be nouns.md",
     "Method names should be verbs.md",
     "[dyslexia.md",
     "Dyslexia.md",
-    "Make meaningful distinctions.md",
     "[Modal.md",
     "[English.md",
     "Styling issues.md",
