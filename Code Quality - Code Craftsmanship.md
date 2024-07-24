@@ -50,6 +50,9 @@ There are many naming rules and conventions but that is for you to decide which 
 ## Functions
 
 ![[Functions - First Rule]]
+
+Besides that main first rule, I would also add: 
+> FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.
 ### Blocks and Indenting
 Given the [[Functions - First Rule|first functions rule]] this means that `if`, `else` and `switch` statements **should be one line long**. This does not only ensures the function is kept small, but it also adds documentary value by having a nice descriptive name. This also implies that functions should not hold nested structures it should not be greater than one or two levels.
 
