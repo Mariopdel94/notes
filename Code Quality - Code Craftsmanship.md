@@ -8,6 +8,14 @@ Notes to self:
 
 # Clean Code
 
+## What is "clean code"?
+
+According to Grady Booch, author of Object Oriented Analysis and Design with Applications. 
+
+>Clean code is simple and direct. Clean code reads like well-written prose. Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of control.
+
+^639e63
+
 [[Small things matter]]
 
 > The smallest bit of sloppy construction, of the door that does not close tightly or the slightly crooked tile on the floor, or even the messy desk, completely dispels the charm of the larger whole. That is what clean code is about.
@@ -18,14 +26,6 @@ When we spend more of our time maintaining the codebase, we should focus more on
 >We are going to look at code from every different direction. We’ll look down at it from the top, up at it from the bottom, and through it from the inside out. By the time we are done, we’re going to know a lot about code. What’s more, we’ll be able to tell the **difference between good code and bad code**. We’ll know how to write good code. And **we’ll know how to transform bad code into good code.**
 
 [[The Boy Scout Rule]]
-
-## What is "clean code"?
-
-According to Grady Booch, author of Object Oriented Analysis and Design with Applications. 
-
->Clean code is simple and direct. Clean code reads like well-written prose. Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of control.
-
-^639e63
 
 ## Bad code
 Have you ever been significantly **impeded by bad code**? If you are a programmer of any experience, then **of course you have**. 
@@ -49,12 +49,12 @@ There are many naming rules and conventions but that is for you to decide which 
 
 ## Functions
 
+> FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.
+
 ![[Functions - First Rule]]
 
-Besides that main first rule, I would also add: 
-> FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.
 ### Blocks and Indenting
-Given the [[Functions - First Rule|first functions rule]] this means that `if`, `else` and `switch` statements **should be one line long**. This does not only ensures the function is kept small, but it also adds documentary value by having a nice descriptive name. This also implies that functions should not hold nested structures it should not be greater than one or two levels.
+Given the [[Functions - First Rule|main rule of functions]] this means that `if`, `else` and `switch` statements **should be one line long**. This does not only ensures the function is kept small, but it also adds documentary value by having a nice descriptive name. This also implies that functions should not hold nested structures it should not be greater than one or two levels.
 
 # Angular specific
  

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Make meaningful context.md",
+                "file": "Code Quality - Code Craftsmanship.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f844e64e11a49262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal take on React deconstructing props.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Make meaningful context.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Make meaningful context.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +151,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Make meaningful context.md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,15 +174,17 @@
   },
   "active": "6dba4fc0d990207d",
   "lastOpenFiles": [
-    "Pasted image 20240725102110.png",
+    "Intention-Revealing Names (Example).md",
     "Code Quality - Code Craftsmanship.md",
+    "Functions - First Rule.md",
     "Make meaningful context.md",
+    "Personal take on React deconstructing props.md",
+    "Pasted image 20240725102110.png",
     "Make meaningful distinctions.md",
     "Naming Boolean variables.md",
     "Method names should be verbs.md",
     "Class names should be nouns.md",
     "Use Intention-Revealing Names.md",
-    "Intention-Revealing Names (Example).md",
     "The Boy Scout Rule.md",
     "Maintenance over producing.md",
     "Angular - \"I want to speak to your manager\".md",
@@ -181,7 +195,6 @@
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Angular - Make sure things never change.md",
     "Angular - Make sure things never change (Refactor).md",
-    "Functions - First Rule.md",
     "React blank file template.md",
     "React.md",
     "Small things matter.md",
