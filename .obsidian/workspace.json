@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Angular - \"I want to speak to your manager\" (Refactor).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Angular - \"I want to speak to your manager\" (Refactor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Angular - \"I want to speak to your manager\" (Refactor).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md"
+                "file": "Angular - \"I want to speak to your manager\" (Refactor).md"
               }
             }
           }
@@ -176,8 +176,13 @@
   },
   "active": "24be9f90489c26ab",
   "lastOpenFiles": [
-    "Functions - Cleanliness refactor example.md",
+    "Angular - \"I want to speak to your manager\".md",
+    "Declarative variable definitions.md",
+    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Code Quality - Code Craftsmanship.md",
+    "Angular - Make sure things never change (Refactor).md",
+    "Angular - Make sure things never change.md",
+    "Functions - Cleanliness refactor example.md",
     "Functions should do one thing.md",
     "Personal take on React destructuring props.md",
     "Functions - First Rule.md",
@@ -192,14 +197,9 @@
     "Class names should be nouns.md",
     "Use Intention-Revealing Names.md",
     "The Boy Scout Rule.md",
-    "Angular - \"I want to speak to your manager\".md",
     "The best comment is no comment at all.md",
     "React file structure.md",
     "Angular - \"I want to speak to your manager\" (Refactor).md",
-    "Declarative variable definitions.md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
-    "Angular - Make sure things never change.md",
-    "Angular - Make sure things never change (Refactor).md",
     "React blank file template.md",
     "React.md",
     "React-named-effects.md",
