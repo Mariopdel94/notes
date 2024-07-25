@@ -61,9 +61,7 @@ There are many naming rules and conventions but that is for you to decide which 
 Given the [[Functions - First Rule|main rule of functions]] this means that `if`, `else` and `switch` statements **should be one line long**. This does not only ensures the function is kept small, but it also adds documentary value by having a nice descriptive name. This also implies that functions should not hold nested structures it should not be greater than one or two levels.
 
 [[Functions - Cleanliness refactor example]]
-
-# React specific
-[[Personal take on React destructuring props|Controversial personal take on React destructuring all props]]
+[[Functions - No side effects]]
 
 # Angular specific
  
@@ -78,3 +76,6 @@ Okay, we now know that imperative is bad and we should avoid it and reactive is 
 
 1. [[Angular - Make sure things never change (Refactor)]]
 2. [[Angular - "I want to speak to your manager" (Refactor)]]
+
+# React specific
+[[Personal take on React destructuring props|Controversial personal take on React destructuring all props]]

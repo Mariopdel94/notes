@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f844e64e11a49262",
+            "id": "24be9f90489c26ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Functions - No side effects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "24be9f90489c26ab",
+            "id": "847d9fc23ce99d48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular - \"I want to speak to your manager\" (Refactor).md",
+                "file": "Functions - No side effects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular - \"I want to speak to your manager\" (Refactor).md",
+                "file": "Functions - No side effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular - \"I want to speak to your manager\" (Refactor).md",
+                "file": "Functions - No side effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular - \"I want to speak to your manager\" (Refactor).md"
+                "file": "Functions - No side effects.md"
               }
             }
           }
@@ -176,17 +175,19 @@
   },
   "active": "24be9f90489c26ab",
   "lastOpenFiles": [
+    "Make meaningful context.md",
+    "Functions - No side effects.md",
+    "Code Quality - Code Craftsmanship.md",
+    "Functions - Cleanliness refactor example.md",
     "Angular - \"I want to speak to your manager\".md",
+    "Angular - \"I want to speak to your manager\" (Refactor).md",
     "Declarative variable definitions.md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
-    "Code Quality - Code Craftsmanship.md",
     "Angular - Make sure things never change (Refactor).md",
     "Angular - Make sure things never change.md",
-    "Functions - Cleanliness refactor example.md",
     "Functions should do one thing.md",
     "Personal take on React destructuring props.md",
     "Functions - First Rule.md",
-    "Make meaningful context.md",
     "Small things matter.md",
     "Maintenance over producing.md",
     "Intention-Revealing Names (Example).md",
@@ -199,10 +200,8 @@
     "The Boy Scout Rule.md",
     "The best comment is no comment at all.md",
     "React file structure.md",
-    "Angular - \"I want to speak to your manager\" (Refactor).md",
     "React blank file template.md",
     "React.md",
-    "React-named-effects.md",
     "Pasted image 20240625124222.png",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",

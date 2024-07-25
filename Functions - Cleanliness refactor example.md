@@ -1,3 +1,4 @@
+#clean-code
 # Code #1
 
 Read the following code and try to *decipher* what is going on for 3-5minutes:

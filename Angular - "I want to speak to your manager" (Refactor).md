@@ -67,6 +67,7 @@ export class MyComponent implements OnInit {
 The **declarative** way of thinking is "just update the filter that is currently applied", the rest should "react" to it and update accordingly automatically. 
 
 ```typescript
+// This first step is actually imperative!
 public filter = signal<FilterType>('none'); // This can be changed in the template button.
 private myData = toSignal(this.myService.getData(this.id));
 // This depends on `filter` and `myData`.
