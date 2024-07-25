@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions - Cleanliness refactor example.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions - Cleanliness refactor example.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions - Cleanliness refactor example.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions - Cleanliness refactor example.md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "24be9f90489c26ab",
   "lastOpenFiles": [
-    "Code Quality - Code Craftsmanship.md",
     "Functions - Cleanliness refactor example.md",
+    "Code Quality - Code Craftsmanship.md",
     "Functions should do one thing.md",
     "Personal take on React destructuring props.md",
     "Functions - First Rule.md",
