@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Personal take on React destructuring props.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal take on React deconstructing props.md",
+                "file": "Personal take on React destructuring props.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Personal take on React destructuring props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Personal take on React destructuring props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md"
+                "file": "Personal take on React destructuring props.md"
               }
             }
           }
@@ -175,13 +175,13 @@
   },
   "active": "6dba4fc0d990207d",
   "lastOpenFiles": [
-    "Small things matter.md",
+    "Make meaningful context.md",
     "Code Quality - Code Craftsmanship.md",
+    "Small things matter.md",
     "Maintenance over producing.md",
     "Intention-Revealing Names (Example).md",
     "Functions - First Rule.md",
-    "Make meaningful context.md",
-    "Personal take on React deconstructing props.md",
+    "Personal take on React destructuring props.md",
     "Pasted image 20240725102110.png",
     "Make meaningful distinctions.md",
     "Naming Boolean variables.md",

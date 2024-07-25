@@ -21,5 +21,5 @@ const client: Client & Person = {
 Now you can access `this.client.address.state` and is clear the intent, and the context of this variable.
 
 # React props
-[[Personal take on React deconstructing props]]
+[[Personal take on React destructuring props]]
 
