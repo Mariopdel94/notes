@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dba4fc0d990207d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal take on React destructuring props.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f844e64e11a49262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal take on React destructuring props.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal take on React destructuring props.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal take on React destructuring props.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal take on React destructuring props.md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -173,15 +160,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6dba4fc0d990207d",
+  "active": "f844e64e11a49262",
   "lastOpenFiles": [
-    "Make meaningful context.md",
+    "Functions should do one thing.md",
     "Code Quality - Code Craftsmanship.md",
+    "Personal take on React destructuring props.md",
+    "Functions - First Rule.md",
+    "Make meaningful context.md",
     "Small things matter.md",
     "Maintenance over producing.md",
     "Intention-Revealing Names (Example).md",
-    "Functions - First Rule.md",
-    "Personal take on React destructuring props.md",
     "Pasted image 20240725102110.png",
     "Make meaningful distinctions.md",
     "Naming Boolean variables.md",
@@ -202,7 +190,6 @@
     "React-named-effects.md",
     "Pasted image 20240625124222.png",
     "Guide for React experimental debugger.md",
-    "[dyslexia.md",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
     "Pasted image 20240625101927.png",

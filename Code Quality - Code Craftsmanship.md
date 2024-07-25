@@ -54,12 +54,14 @@ There are many naming rules and conventions but that is for you to decide which 
 
 ## Functions
 
-> FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.
+![[Functions should do one thing]]
 
 ![[Functions - First Rule]]
-
 ### Blocks and Indenting
 Given the [[Functions - First Rule|main rule of functions]] this means that `if`, `else` and `switch` statements **should be one line long**. This does not only ensures the function is kept small, but it also adds documentary value by having a nice descriptive name. This also implies that functions should not hold nested structures it should not be greater than one or two levels.
+
+# React specific
+[[Personal take on React destructuring props|Controversial personal take on React destructuring all props]]
 
 # Angular specific
  
