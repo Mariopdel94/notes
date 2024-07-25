@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Make meaningful context.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Make meaningful context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Make meaningful context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md"
+                "file": "Make meaningful context.md"
               }
             }
           }
@@ -162,9 +162,15 @@
   },
   "active": "6dba4fc0d990207d",
   "lastOpenFiles": [
-    "Maintenance over producing.md",
     "Code Quality - Code Craftsmanship.md",
+    "Naming Boolean variables.md",
+    "Method names should be verbs.md",
+    "Class names should be nouns.md",
+    "Make meaningful distinctions.md",
+    "Use Intention-Revealing Names.md",
     "Intention-Revealing Names (Example).md",
+    "The Boy Scout Rule.md",
+    "Maintenance over producing.md",
     "Angular - \"I want to speak to your manager\".md",
     "The best comment is no comment at all.md",
     "React file structure.md",
@@ -174,10 +180,6 @@
     "Angular - Make sure things never change.md",
     "Angular - Make sure things never change (Refactor).md",
     "Make meaningful context.md",
-    "Naming Boolean variables.md",
-    "Class names should be nouns.md",
-    "Make meaningful distinctions.md",
-    "Use Intention-Revealing Names.md",
     "Functions - First Rule.md",
     "React blank file template.md",
     "React.md",
@@ -185,10 +187,8 @@
     "React-named-effects.md",
     "Pasted image 20240625124222.png",
     "Guide for React experimental debugger.md",
-    "Method names should be verbs.md",
     "[dyslexia.md",
     "Dyslexia.md",
-    "[Modal.md",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
     "Pasted image 20240625101927.png",
