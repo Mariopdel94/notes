@@ -8,6 +8,16 @@ Notes to self:
 
 # Clean Code
 
+## Bad code
+Have you ever been significantly **impeded by bad code**? If you are a programmer of any experience, then **of course you have**. 
+
+We try to find our way through bad code, hoping to get some hint, some idea, some clue of what the \*\*\* is going on... But all we see is more and more **senseless** code.
+
+So, of course you've been impeded by bad code. But then... **why did you write it?**
+
+We’ve all said we’d go back and **clean it up later**. Of course, in those days we didn’t know LeBlanc’s law
+> Later equals never.
+
 ## What is "clean code"?
 
 According to Grady Booch, author of Object Oriented Analysis and Design with Applications. 
@@ -16,23 +26,18 @@ According to Grady Booch, author of Object Oriented Analysis and Design with App
 
 ^639e63
 
+**Writing clean code is a lot like painting a picture**. Most of us know when a picture is painted well or badly. But being able to recognize good art from bad does not mean that we know how to paint. So too being able to recognize clean code from dirty code does not mean that we know how to write clean code!
+
 [[Small things matter]]
 
 > The smallest bit of sloppy construction, of the door that does not close tightly or the slightly crooked tile on the floor, or even the messy desk, completely dispels the charm of the larger whole. That is what clean code is about.
 
-[[Maintenance over producing]]
+Imagine the smallest crack in your car windshield, yes it is small, and perhaps out of the way on your day-to-day vision, but as you drive more and more that crack slowly becomes a much bigger problem, and you end up needing to replace the whole windshield, yet you could've repaired it when the crack was small enough.
+
+[[Maintenance over producing]] 🔨
 When we spend more of our time maintaining the codebase, we should focus more on how to facilitate it than focusing on "creating" new code. 
 
->We are going to look at code from every different direction. We’ll look down at it from the top, up at it from the bottom, and through it from the inside out. By the time we are done, we’re going to know a lot about code. What’s more, we’ll be able to tell the **difference between good code and bad code**. We’ll know how to write good code. And **we’ll know how to transform bad code into good code.**
-
-[[The Boy Scout Rule]]
-
-## Bad code
-Have you ever been significantly **impeded by bad code**? If you are a programmer of any experience, then **of course you have**. 
-
-We try to find our way through bad code, hoping to get some hint, some idea, some clue of what the \*\*\* is going on... But all we see is more and more **senseless** code.
-
-So, of course you've been impeded by bad code. But then... **why did you write it?**
+Imagine working on a project where code *simply got better* as time passed, instead of the usual code that slowly and steady rots into a messy bad code. **Isn’t continuous improvement an intrinsic part of professionalism?**  Thus: [[The Boy Scout Rule]] ☝️☝️☝️
 
 ## Meaningful names
 

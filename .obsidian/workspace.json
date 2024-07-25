@@ -155,7 +155,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,8 +175,10 @@
   },
   "active": "6dba4fc0d990207d",
   "lastOpenFiles": [
-    "Intention-Revealing Names (Example).md",
+    "Small things matter.md",
     "Code Quality - Code Craftsmanship.md",
+    "Maintenance over producing.md",
+    "Intention-Revealing Names (Example).md",
     "Functions - First Rule.md",
     "Make meaningful context.md",
     "Personal take on React deconstructing props.md",
@@ -186,7 +189,6 @@
     "Class names should be nouns.md",
     "Use Intention-Revealing Names.md",
     "The Boy Scout Rule.md",
-    "Maintenance over producing.md",
     "Angular - \"I want to speak to your manager\".md",
     "The best comment is no comment at all.md",
     "React file structure.md",
@@ -197,7 +199,6 @@
     "Angular - Make sure things never change (Refactor).md",
     "React blank file template.md",
     "React.md",
-    "Small things matter.md",
     "React-named-effects.md",
     "Pasted image 20240625124222.png",
     "Guide for React experimental debugger.md",
