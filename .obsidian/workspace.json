@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions - No side effects.md",
-                "mode": "source",
+                "file": "Code Quality - Code Craftsmanship.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions - No side effects.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions - No side effects.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions - No side effects.md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "24be9f90489c26ab",
   "lastOpenFiles": [
-    "Make meaningful context.md",
     "Functions - No side effects.md",
+    "Make meaningful context.md",
     "Code Quality - Code Craftsmanship.md",
     "Functions - Cleanliness refactor example.md",
     "Angular - \"I want to speak to your manager\".md",

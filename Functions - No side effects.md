@@ -43,7 +43,7 @@ const checkIfPinIsValid = async () => {
 };
 ```
 
-First of all this function is doing multiple things, **and** those things are side effects. Also by the name of the function it implies it should return a `boolean` whether the pin is valid. 
+First of all this function is doing multiple things, **and** those things are side effects. Also by the name of the function it implies it should return a `boolean` whether the pin is valid but is returning `void`. 
 
 First of all `verifyPasscode` comes from a util file and `setPasscodeVerified` is in the `rewardsHook`. This goes along with the Angular Karen principle [[Angular - Make sure things never change|"Make sure things never change"]]  which can be discussed afterwards.
 
