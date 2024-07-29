@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
-                "mode": "preview",
+                "file": "Personal take on React destructuring props.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Personal take on React destructuring props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Personal take on React destructuring props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md"
+                "file": "Personal take on React destructuring props.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "24be9f90489c26ab",
   "lastOpenFiles": [
-    "The best comment is no comment at all.md",
     "Code Quality - Code Craftsmanship.md",
+    "The best comment is no comment at all.md",
     "Functions - Meaningful context (example).md",
     "Functions - No side effects.md",
     "Functions - Cleanliness refactor example.md",
