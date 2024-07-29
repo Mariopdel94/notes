@@ -14,45 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "Code Quality - Code Craftsmanship.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "7143097295e84ab2",
+            "id": "95ccf760db796dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions - Meaningful context (example).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4b5c000c7dafd93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intention-Revealing Names (Example).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "847d9fc23ce99d48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions - No side effects.md",
+                "file": "The Boy Scout Rule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -181,7 +155,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -202,18 +177,19 @@
   "lastOpenFiles": [
     "The best comment is no comment at all.md",
     "Code Quality - Code Craftsmanship.md",
-    "Untitled.md",
-    "Functions - Cleanliness refactor example.md",
-    "Use Intention-Revealing Names.md",
-    "Personal take on React destructuring props.md",
-    "Intention-Revealing Names (Example).md",
     "Functions - Meaningful context (example).md",
     "Functions - No side effects.md",
+    "Functions - Cleanliness refactor example.md",
     "Make meaningful context.md",
     "Naming Boolean variables.md",
     "Method names should be verbs.md",
     "Class names should be nouns.md",
     "Make meaningful distinctions.md",
+    "Use Intention-Revealing Names.md",
+    "Intention-Revealing Names (Example).md",
+    "The Boy Scout Rule.md",
+    "Untitled.md",
+    "Personal take on React destructuring props.md",
     "Maintenance over producing.md",
     "Angular - \"I want to speak to your manager\".md",
     "Angular - \"I want to speak to your manager\" (Refactor).md",
@@ -225,7 +201,6 @@
     "Functions - First Rule.md",
     "Small things matter.md",
     "Pasted image 20240725102110.png",
-    "The Boy Scout Rule.md",
     "React file structure.md",
     "Pasted image 20240625124222.png",
     "Pasted image 20240625100005.png",
