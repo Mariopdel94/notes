@@ -101,6 +101,29 @@ Usually a good way to handle an `if/else` chain is to look at it the other way a
 [[Functions - No side effects]]
 It is mentioned before, but variables (and functions) names should have [[Make meaningful context|meaningful context]]. The following are real life example of our own project where naming is confusing and the developer needs to dive deeper into the rabbit hole just to begin understanding what is going on. [[Functions - Meaningful context (example)]]
 
+
+## Comments
+
+I've already declared that [[The best comment is no comment at all]] and usually writing a comment is just a reflection of bad code. And on most cases it ends up in old and outdated comments that are no longer true. 
+
+The **code changes, and it evolves**, constantly while comments are left unattended. We can make the argument that developers should be disciplined enough to constantly update the comments, but I would make the counterargument that that energy should be better used in writing cleaner code. 
+
+It is far better to have clean code with no comments at all, than having a cluttered complex file with lots of code. 
+
+Example:
+
+```typescript
+// Check to see if the employee is eligible for benefits
+if ((employee.flags & HOURLY_FLAG) && (employee.age > 65)) {}
+```
+
+When the code can be simplified to:
+
+```typescript
+if (employee.isEligibleForBenefits()) {}
+```
+
+Remember that clean code should be a [[Code Quality - Code Craftsmanship#^639e63|well-written prose]]
 # Angular specific
  
 ## Convert **imperative** code to **reactive** code.

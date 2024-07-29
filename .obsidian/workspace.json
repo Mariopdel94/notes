@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions - Cleanliness refactor example.md",
-                "mode": "preview",
+                "file": "Code Quality - Code Craftsmanship.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boolean",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions - Cleanliness refactor example.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions - Cleanliness refactor example.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,12 +177,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions - Cleanliness refactor example.md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,18 +200,21 @@
   },
   "active": "24be9f90489c26ab",
   "lastOpenFiles": [
+    "The best comment is no comment at all.md",
     "Code Quality - Code Craftsmanship.md",
+    "Untitled.md",
+    "Functions - Cleanliness refactor example.md",
+    "Use Intention-Revealing Names.md",
+    "Personal take on React destructuring props.md",
+    "Intention-Revealing Names (Example).md",
+    "Functions - Meaningful context (example).md",
+    "Functions - No side effects.md",
     "Make meaningful context.md",
     "Naming Boolean variables.md",
     "Method names should be verbs.md",
     "Class names should be nouns.md",
     "Make meaningful distinctions.md",
-    "Use Intention-Revealing Names.md",
-    "Intention-Revealing Names (Example).md",
     "Maintenance over producing.md",
-    "Functions - No side effects.md",
-    "Functions - Meaningful context (example).md",
-    "Functions - Cleanliness refactor example.md",
     "Angular - \"I want to speak to your manager\".md",
     "Angular - \"I want to speak to your manager\" (Refactor).md",
     "Declarative variable definitions.md",
@@ -220,14 +222,11 @@
     "Angular - Make sure things never change (Refactor).md",
     "Angular - Make sure things never change.md",
     "Functions should do one thing.md",
-    "Personal take on React destructuring props.md",
     "Functions - First Rule.md",
     "Small things matter.md",
     "Pasted image 20240725102110.png",
     "The Boy Scout Rule.md",
-    "The best comment is no comment at all.md",
     "React file structure.md",
-    "React blank file template.md",
     "Pasted image 20240625124222.png",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
