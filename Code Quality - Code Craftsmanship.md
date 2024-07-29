@@ -60,8 +60,46 @@ There are many naming rules and conventions but that is for you to decide which 
 ### Blocks and Indenting
 Given the [[Functions - First Rule|main rule of functions]] this means that `if`, `else` and `switch` statements **should be one line long**. This does not only ensures the function is kept small, but it also adds documentary value by having a nice descriptive name. This also implies that functions should not hold nested structures it should not be greater than one or two levels.
 
+This also applies to nested ternaries, it should not be greater than one level. Take a look at this:
+
+```typescript
+ const slideUpPanelStartPosition =
+    isUnregisteredUser && !!clubProgressData
+      ? applyPixelRatio(-40)
+      : isUnregisteredUser
+      ? applyPixelRatio(-80)
+      : applyPixelRatio(300);
+```
+
+By reading this, do you know what is the initial value of this? Even if we change it to an `if/else` chain:
+
+```typescript
+let slideUpPanelStartPosition;
+if (isUnregisteredUser && !!clubProgressData) {
+    slideUpPanelStartPosition = applyPixelRatio(-40);
+  } else if (isUnregisteredUser) {
+    slideUpPanelStartPosition = applyPixelRatio(-80);
+  } else {
+    slideUpPanelStartPosition = applyPixelRatio(300);
+  }
+```
+
+Usually a good way to handle an `if/else` chain is to look at it the other way around and reverse it. For example:
+
+```typescript
+  let slideUpPanelStartPosition = getPanelStartPosition();
+  function getPanelStartPosition() {
+    const default = applyPixelRatio(300);
+    if (isUnregisteredUser && !!clubProgressData) return applyPixelRatio(-40);
+    if (isUnregisteredUser) return applyPixelRatio(-80);
+    return default;
+  }
+
+```
+
 [[Functions - Cleanliness refactor example]]
 [[Functions - No side effects]]
+It is mentioned before, but variables (and functions) names should have [[Make meaningful context|meaningful context]]. The following are real life example of our own project where naming is confusing and the developer needs to dive deeper into the rabbit hole just to begin understanding what is going on. [[Functions - Meaningful context (example)]]
 
 # Angular specific
  

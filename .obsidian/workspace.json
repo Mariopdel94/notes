@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "7143097295e84ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions - Meaningful context (example).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4b5c000c7dafd93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intention-Revealing Names (Example).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "847d9fc23ce99d48",
             "type": "leaf",
             "state": {
@@ -176,8 +202,12 @@
   "active": "24be9f90489c26ab",
   "lastOpenFiles": [
     "Functions - No side effects.md",
-    "Make meaningful context.md",
     "Code Quality - Code Craftsmanship.md",
+    "Functions - Meaningful context (example).md",
+    "Intention-Revealing Names (Example).md",
+    "Use Intention-Revealing Names.md",
+    "Make meaningful context.md",
+    "Make meaningful distinctions.md",
     "Functions - Cleanliness refactor example.md",
     "Angular - \"I want to speak to your manager\".md",
     "Angular - \"I want to speak to your manager\" (Refactor).md",
@@ -190,18 +220,14 @@
     "Functions - First Rule.md",
     "Small things matter.md",
     "Maintenance over producing.md",
-    "Intention-Revealing Names (Example).md",
     "Pasted image 20240725102110.png",
-    "Make meaningful distinctions.md",
     "Naming Boolean variables.md",
     "Method names should be verbs.md",
     "Class names should be nouns.md",
-    "Use Intention-Revealing Names.md",
     "The Boy Scout Rule.md",
     "The best comment is no comment at all.md",
     "React file structure.md",
     "React blank file template.md",
-    "React.md",
     "Pasted image 20240625124222.png",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
