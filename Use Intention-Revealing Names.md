@@ -2,7 +2,7 @@
 
 It is easy to say that names should reveal intent. Choosing good names usually takes time, and thinking, but reading the code afterwards saves more time than it.
 
-The name of a variable, method, function, class, should **always** reveal its intention and answer all big questions... Why it exists? What it does? How it is used? If a comment is needed to answer any of these, then the name does not reveal its intent.
+The name of a variable, method, function, class, should **always** reveal its intention and answer all big questions... Why it exists? What it does? How it is used? If a comment is needed to answer any of these, then the name does not reveal its intent. Remember that [[The best comment is no comment at all]]
 
 This is an over exaggeration of a bad naming example. The variable is not even a word, is not initialized (which will be covered on a separate topic), and does not disclose any information at all.
 
