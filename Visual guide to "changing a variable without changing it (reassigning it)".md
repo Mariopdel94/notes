@@ -12,7 +12,7 @@ Remember, this is already declarative as long as this variable never gets reassi
 
 Thus a reactive graph is created like this:
 
-![[Visual guide to "changing a variable without changing it (reassigning it)" 2024-08-07 10.48.47.excalidraw]]
+![[Visual guide to "changing a variable without changing it (reassigning it)" 2024-08-07 10.48.47.excalidraw|1920xauto]]
 
 We have our request to the database as our **initiator of change**, this will start a chain reaction of other changes. Our `data` declaration depends on that request. When the request declaration emits some value then our `data` will react to it, and that reaction is declared upfront in the declaration of our `data`.
 
@@ -20,17 +20,17 @@ We have our request to the database as our **initiator of change**, this will st
 
 We need to be able to build these reactive graph models in our heads or on paper, in order to build reactive and declarative code. The RxJS implementation comes second to this, and RxJS is not really needed, this can be achieved with any reactive mechanism, like signals or one of your own.
 
-This example is fairly simple, but what if we want to add pagination to our UI?
+This example is fairly simple, but what if we want to add **pagination** to our UI?
 
 Now we need to consider how we would modify this reactive graph to introduce a new element: pagination.
 
 We create a new variable with the current page number:
 
 ```typescript
-currentPage = new BehaviorSubject(1);
+page = new BehaviorSubject(1);
 ```
 
-But where does this declaration would go in our reactive graph? What is the most fundamental declaration? Which of our 3 variables is the initiator of change that everything else should react to? 
+But where does this declaration would go in our reactive graph? What is the most fundamental declaration? **Which of our 3 variables is the initiator of change that everything else should react to?** 
 
 It is actually the page number, this now sits at the top because the request depends on the page number. Any time the page number changes the request will be re-triggered.
 
