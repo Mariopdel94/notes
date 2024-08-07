@@ -24,5 +24,15 @@ This example is fairly simple, but what if we want to add pagination to our UI?
 
 Now we need to consider how we would modify this reactive graph to introduce a new element: pagination.
 
+We create a new variable with the current page number:
 
+```typescript
+currentPage = new BehaviorSubject(1);
+```
+
+But where does this declaration would go in our reactive graph? What is the most fundamental declaration? Which of our 3 variables is the initiator of change that everything else should react to? 
+
+It is actually the page number, this now sits at the top because the request depends on the page number. Any time the page number changes the request will be re-triggered.
+
+![[Visual guide to "changing a variable without changing it (reassigning it)" 2024-08-07 11.12.35.excalidraw|1920xauto]]
 

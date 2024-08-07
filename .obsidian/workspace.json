@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "eb10819f68c77979",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "515edea4a441fff8",
             "type": "leaf",
             "state": {
@@ -198,8 +208,10 @@
   },
   "active": "6d69228c2abdac46",
   "lastOpenFiles": [
-    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md",
+    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
     "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+    "Pasted Image 20240807111650_931.png",
+    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md",
     "Angular - Make sure things never change.md",
     "The Boy Scout Rule.md",
     "Code Quality - Code Craftsmanship.md",
@@ -222,8 +234,6 @@
     "Declarative variable definitions.md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Angular - Make sure things never change (Refactor).md",
-    "Functions should do one thing.md",
-    "Functions - First Rule.md",
     "Pasted image 20240725102110.png",
     "Pasted image 20240625124222.png",
     "Pasted image 20240625100005.png",
