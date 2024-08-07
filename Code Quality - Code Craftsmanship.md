@@ -125,7 +125,9 @@ if (employee.isEligibleForBenefits()) {}
 
 Remember that clean code should be a [[Code Quality - Code Craftsmanship#^639e63|well-written prose]]
 # Angular specific
- 
+
+[[Visual guide to "changing a variable without changing it (reassigning it)"]]
+
 ## Convert **imperative** code to **reactive** code.
 
 Some of the key ideas you can use to convert imperative code to a more reactive pattern are two *Karen* inspired rules you can follow to get more into that declarative/reactive pattern mindset:
