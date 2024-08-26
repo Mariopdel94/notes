@@ -126,6 +126,8 @@ if (employee.isEligibleForBenefits()) {}
 Remember that clean code should be a [[Code Quality - Code Craftsmanship#^639e63|well-written prose]]
 # Angular specific
 
+## What is "imperative" code?
+
 Imperative code example:
 
 ```typescript
