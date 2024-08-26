@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "092c72b2f0209a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is \"imperative\" code?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2bc35ee420eab4a6",
             "type": "leaf",
             "state": {
@@ -192,13 +205,14 @@
   },
   "active": "23301e559e74e687",
   "lastOpenFiles": [
+    "What is \"imperative\" code?.md",
+    "Code Quality - Code Craftsmanship.md",
     "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.33.45.excalidraw.md",
     "Pasted Image 20240826133709_640.png",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.28.03.excalidraw.md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
     "Pasted Image 20240826133205_802.png",
-    "Code Quality - Code Craftsmanship.md",
     "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 10.57.18.excalidraw.md",
     "Excalidraw/Visual guide to why DECLARATIVE code is better 2024-08-26 11.49.26.excalidraw.md",
     "Visual guide to why DECLARATIVE code is better.md",

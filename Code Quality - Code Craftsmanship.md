@@ -126,30 +126,9 @@ if (employee.isEligibleForBenefits()) {}
 Remember that clean code should be a [[Code Quality - Code Craftsmanship#^639e63|well-written prose]]
 # Angular specific
 
-## What is "imperative" code?
+## Imperative vs Reactive
 
-Imperative code example:
-
-```typescript
-// (text is reassigned after declaration)
-let text = 'Any text in here';
-text = await somePromise();
-
-// myVal is reassigned after declaration
-let myVal;
-myObservable$.subscribe(val => {
-	myVal = val;
-})
-
-...
-
-someOtherFunction() {
-	this.text = 'Now theres a new value!';
-}
-```
-
-With imperative code the definition of a "thing" and how its value can change over time is spread out throughout the codebase. 
-
+[[What is "imperative" code?]]
 [[Visual guide to why DECLARATIVE code is better]]
 [[Visual guide to "changing a variable without changing it (reassigning it)"]]
 
