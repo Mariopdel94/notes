@@ -13,10 +13,63 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "440d326f3bb66f58",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Visual guide to why DECLARATIVE code is better 2024-08-26 11.49.26.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ec6f889b3841186b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual guide to why DECLARATIVE code is better.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e11ee5b1ff8655eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 11.28.27.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c8bbcdf2788cb03a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 11.14.15.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1f192bd2b9b27eeb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 10.57.18.excalidraw.md"
               }
             }
           }
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual guide to \"changing a variable without changing it (reassigning it)\".md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -161,10 +214,16 @@
   },
   "active": "23301e559e74e687",
   "lastOpenFiles": [
+    "Visual guide to why DECLARATIVE code is better.md",
+    "Excalidraw/Visual guide to why DECLARATIVE code is better 2024-08-26 11.49.26.excalidraw.md",
     "Code Quality - Code Craftsmanship.md",
+    "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+    "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 11.28.27.excalidraw.md",
+    "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 11.14.15.excalidraw.md",
+    "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 10.57.18.excalidraw.md",
+    "Untitled 1.md",
     "The Boy Scout Rule.md",
     "Angular - Make sure things never change.md",
-    "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md",
     "Pasted Image 20240807112645_808.png",
@@ -183,11 +242,6 @@
     "Intention-Revealing Names (Example).md",
     "Untitled.md",
     "Maintenance over producing.md",
-    "Angular - \"I want to speak to your manager\".md",
-    "Angular - \"I want to speak to your manager\" (Refactor).md",
-    "Declarative variable definitions.md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
-    "Angular - Make sure things never change (Refactor).md",
     "Pasted image 20240725102110.png",
     "Pasted image 20240625124222.png",
     "Pasted image 20240625100005.png",
