@@ -12,8 +12,8 @@ We know from looking at both variables declaration what they do, how they do it,
 But what would happens if we do this?
 
 ```typescript
-comments = ['hi', 'hello', 'how are you?']
-lastComment = comments[comments.length - 1];
+comments = signal(['hi', 'hello', 'how are you?']>
+lastComment = comments[comments.length - 1]; // how are you?
 
 someMethod(){
   this.comments.push('uh oh');
