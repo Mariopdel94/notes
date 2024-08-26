@@ -3,6 +3,8 @@
 
 ## "I want to speak to your manager"
 
+![princess bubblegum from adventure time is standing next to a chair that says i want to speak to the manager .](https://media1.tenor.com/m/HJ0qXpzhAzQAAAAC/supervisor-speak-to-the-manager.gif)
+
 Imagine the following code flow:
 
 1. We have an `event binding` in the `template`, that calls a `method`.

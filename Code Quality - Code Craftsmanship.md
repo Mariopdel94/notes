@@ -132,6 +132,13 @@ Remember that clean code should be a [[Code Quality - Code Craftsmanship#^639e63
 [[Visual guide to why DECLARATIVE code is better]]
 [[Visual guide to "changing a variable without changing it (reassigning it)"]]
 
+## Reactive flow:
+
+We have data coming from some **source** (e.g. an HTTP request) and it will end up in some **sink** (i.e. the destination for that data, like a component’s template where the observable is subscribed to). In the entire journey from the **source** to the **sink**, the data should never leave the stream — meaning the stream should not be `subscribed` in order to pull the data out — until it finally “comes out” at the destination.
+
+![Reactive flow](https://angularstart.com/_app/immutable/assets/rxjs-subscribe-one.694fa4e8.png "Reactive flow")
+
+[Conveyor belt high level analogy](https://youtu.be/zDwiybWUwKM?t=53)
 ## Convert **imperative** code to **reactive** code.
 
 Some of the key ideas you can use to convert imperative code to a more reactive pattern are two *Karen* inspired rules you can follow to get more into that declarative/reactive pattern mindset:
