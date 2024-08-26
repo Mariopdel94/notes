@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Code Quality - Code Craftsmanship.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -142,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,13 +162,19 @@
   },
   "active": "092c72b2f0209a5b",
   "lastOpenFiles": [
+    "Angular - \"I want to speak to your manager\".md",
+    "Angular - \"I want to speak to your manager\" (Refactor).md",
+    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
+    "Code Quality - Code Craftsmanship.md",
+    "Angular - Make sure things never change.md",
+    "Angular - Make sure things never change (Refactor).md",
+    "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+    "What is \"imperative\" code?.md",
+    "Visual guide to why DECLARATIVE code is better.md",
     "Personal take on React destructuring props.md",
     "images/Pasted image 20240725102110.png",
     "images/Pasted Image 20240618123827_830.png",
-    "Angular - Make sure things never change.md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.36.06.excalidraw.md",
-    "Code Quality - Code Craftsmanship.md",
-    "What is \"imperative\" code?.md",
     "images/Pasted image 20240625124222.png",
     "images/Pasted Image 20240807112645_808.png",
     "images/Pasted Image 20240826133205_802.png",
@@ -175,10 +182,7 @@
     "React.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
-    "Visual guide to why DECLARATIVE code is better.md",
     "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 10.57.18.excalidraw.md",
-    "Angular - \"I want to speak to your manager\".md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.33.45.excalidraw.md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.28.03.excalidraw.md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
@@ -191,8 +195,6 @@
     "Functions - Cleanliness refactor example.md",
     "Functions - No side effects.md",
     "Functions - Meaningful context (example).md",
-    "The best comment is no comment at all.md",
-    "Make meaningful context.md",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
     "Pasted image 20240625101927.png",
