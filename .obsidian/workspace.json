@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e692b3c0c2563b9",
+        "id": "3d6215721f2f729c",
         "type": "tabs",
         "children": [
           {
-            "id": "24be9f90489c26ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular - Make sure things never change.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d69228c2abdac46",
+            "id": "23301e559e74e687",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,42 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb10819f68c77979",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "515edea4a441fff8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "95ccf760db796dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Boy Scout Rule.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,16 +159,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d69228c2abdac46",
+  "active": "23301e559e74e687",
   "lastOpenFiles": [
-    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
-    "Pasted Image 20240807112645_808.png",
-    "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
-    "Pasted Image 20240807111650_931.png",
-    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md",
-    "Angular - Make sure things never change.md",
-    "The Boy Scout Rule.md",
     "Code Quality - Code Craftsmanship.md",
+    "The Boy Scout Rule.md",
+    "Angular - Make sure things never change.md",
+    "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
+    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md",
+    "Pasted Image 20240807112645_808.png",
+    "Pasted Image 20240807111650_931.png",
     "Functions - Cleanliness refactor example.md",
     "Functions - No side effects.md",
     "Functions - Meaningful context (example).md",
