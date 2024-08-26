@@ -13,10 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2bc35ee420eab4a6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.33.45.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8b793b53067f1ca0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ffaf9301eb501aa6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.28.03.excalidraw.md"
               }
             }
           }
@@ -86,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual guide to \"changing a variable without changing it (reassigning it)\".md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -162,8 +192,13 @@
   },
   "active": "23301e559e74e687",
   "lastOpenFiles": [
-    "Code Quality - Code Craftsmanship.md",
     "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.33.45.excalidraw.md",
+    "Pasted Image 20240826133709_640.png",
+    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.28.03.excalidraw.md",
+    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
+    "Pasted Image 20240826133205_802.png",
+    "Code Quality - Code Craftsmanship.md",
     "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 10.57.18.excalidraw.md",
     "Excalidraw/Visual guide to why DECLARATIVE code is better 2024-08-26 11.49.26.excalidraw.md",
     "Visual guide to why DECLARATIVE code is better.md",
@@ -172,7 +207,6 @@
     "Untitled 1.md",
     "The Boy Scout Rule.md",
     "Angular - Make sure things never change.md",
-    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md",
     "Pasted Image 20240807112645_808.png",
     "Pasted Image 20240807111650_931.png",
@@ -187,9 +221,6 @@
     "Class names should be nouns.md",
     "Make meaningful distinctions.md",
     "Use Intention-Revealing Names.md",
-    "Intention-Revealing Names (Example).md",
-    "Untitled.md",
-    "Maintenance over producing.md",
     "Pasted image 20240725102110.png",
     "Pasted image 20240625124222.png",
     "Pasted image 20240625100005.png",
@@ -197,9 +228,7 @@
     "Pasted image 20240625101927.png",
     "images/react-file-structure.png",
     "PDFs/React file structure.pdf",
-    "images/Pasted Image 20240618123827_830.png",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).pdf",
-    "images/Pasted image 20240618120504.png",
     "PDFs",
     "Excalidraw",
     "Untitled.canvas",

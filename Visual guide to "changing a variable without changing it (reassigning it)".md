@@ -36,3 +36,16 @@ It is actually the page number, this now sits at the top because the request dep
 
 ![[Visual guide to "changing a variable without changing it (reassigning it)" 2024-08-07 11.12.35.excalidraw|1920xauto]]
 
+Now let's add a `filter`:
+
+Let's ask the question of where this "node" lives in our graph, and how everything else would react to it (if anything) and what should this filter react to (if anything). It actually depends on what we need to accomplish. If we want to filter the data locally then we would have something like this:
+
+ ![[Visual guide to "changing a variable without changing it (reassigning it)" 2024-08-26 13.28.03.excalidraw|1920xauto]]
+This setup **does not** trigger a new HTTP request from the server when the `filter` value updates. Because the `request` declaration has no dependency on the filter declaration.
+
+But if we want to filter the data pulled from the DB then the graph would look different (and thus the code).
+
+![[Visual guide to "changing a variable without changing it (reassigning it)" 2024-08-26 13.33.45.excalidraw|1920xauto]]
+
+Now anytime the `filter` or the `page` value changes it will trigger a new `request` and the `data` will be updated. 
+
