@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d15998bcfee175ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beb0ce4fa8212af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testing new file.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "testing new file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "testing new file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md"
+                "file": "testing new file.md"
               }
             }
           }
@@ -160,8 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77e3e79bba8d68d4",
+  "active": "beb0ce4fa8212af7",
   "lastOpenFiles": [
+    "Testing.md",
+    "testing new file.md",
+    "Code Quality - Code Craftsmanship.md",
     "Git.md",
     "Functions should do one thing.md",
     "Functions - Meaningful context (example).md",
@@ -169,7 +199,6 @@
     "Functions - Cleanliness refactor example.md",
     "Do not use the `Array` constructor.md",
     "Declarative variable definitions.md",
-    "Code Quality - Code Craftsmanship.md",
     "Class names should be nouns.md",
     "Visual guide to why DECLARATIVE code is better.md",
     "What is \"imperative\" code?.md",
@@ -188,12 +217,10 @@
     "images/Pasted Image 20240826133205_802.png",
     "images/Pasted Image 20240826133709_640.png",
     "React.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 10.57.18.excalidraw.md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.33.45.excalidraw.md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.28.03.excalidraw.md",
-    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 11.12.35.excalidraw.md",
     "images/Pasted Image 20240807111650_931.png",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
