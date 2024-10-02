@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d15998bcfee175ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beb0ce4fa8212af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing new file.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing new file.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing new file.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing new file.md"
+                "file": "Code Quality - Code Craftsmanship.md"
               }
             }
           }
@@ -187,7 +160,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "beb0ce4fa8212af7",
+  "active": "77e3e79bba8d68d4",
   "lastOpenFiles": [
     "Testing.md",
     "testing new file.md",
