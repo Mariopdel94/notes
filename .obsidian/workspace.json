@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02593fc7a115bcd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Audit - How to.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "71ad39c452bf6374",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Audit - How to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Audit - How to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md"
+                "file": "Audit - How to.md"
               }
             }
           }
@@ -147,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +176,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77e3e79bba8d68d4",
+  "active": "02593fc7a115bcd5",
   "lastOpenFiles": [
+    "Audit - How to.md",
+    "Code Quality - Code Craftsmanship.md",
     "Testing.md",
     "testing new file.md",
-    "Code Quality - Code Craftsmanship.md",
     "Git.md",
     "Functions should do one thing.md",
     "Functions - Meaningful context (example).md",
@@ -193,7 +210,6 @@
     "Untitled 1.md",
     "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 10.57.18.excalidraw.md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.33.45.excalidraw.md",
-    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.28.03.excalidraw.md",
     "images/Pasted Image 20240807111650_931.png",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
