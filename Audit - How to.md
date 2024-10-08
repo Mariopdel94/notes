@@ -9,3 +9,4 @@ In the log rocket session click play to see what actually happened during the tr
 
 Filter the log (in the logrocket session) by "transaction_id" to get the `transactionId` value.
 
+Aws -> S3 -> qco inference camera prod ->  storeId -> transactionId
