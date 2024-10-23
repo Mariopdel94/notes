@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audit - How to.md",
+                "file": "Git-fomo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24060ffe1770110a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "71ad39c452bf6374",
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Audit - How to.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Audit - How to.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Audit - How to.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -162,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02593fc7a115bcd5",
+  "active": "24060ffe1770110a",
   "lastOpenFiles": [
+    "Git-fomo.md",
+    "TODO.md",
+    "Git - Get main branch name.md",
     "Audit - How to.md",
     "Code Quality - Code Craftsmanship.md",
     "Testing.md",
@@ -207,9 +221,6 @@
     "images/Pasted Image 20240826133205_802.png",
     "images/Pasted Image 20240826133709_640.png",
     "React.md",
-    "Untitled 1.md",
-    "Excalidraw/Code Quality - Code Craftsmanship 2024-08-26 10.57.18.excalidraw.md",
-    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-26 13.33.45.excalidraw.md",
     "images/Pasted Image 20240807111650_931.png",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
