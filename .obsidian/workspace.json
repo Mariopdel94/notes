@@ -4,68 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ec812ac4c217fd2c",
+        "id": "a7d89831bf136aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "77e3e79bba8d68d4",
+            "id": "109379afeef292d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Code Quality - Code Craftsmanship"
-            }
-          },
-          {
-            "id": "02593fc7a115bcd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git-fomo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git-fomo"
-            }
-          },
-          {
-            "id": "24060ffe1770110a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "7a6e84f457358204",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#source",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -200,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -217,13 +169,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a6e84f457358204",
+  "active": "3c98812303729b48",
   "lastOpenFiles": [
+    "Code Quality - Code Craftsmanship.md",
     "Git-fomo.md",
     "TODO.md",
     "Git - Get main branch name.md",
     "Audit - How to.md",
-    "Code Quality - Code Craftsmanship.md",
     "Testing.md",
     "testing new file.md",
     "Git.md",
