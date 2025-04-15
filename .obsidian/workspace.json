@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "React file structure"
             }
+          },
+          {
+            "id": "318918d6de0d0225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React-named-effects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "React-named-effects"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,8 +235,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "959178ade9ac1640",
+  "active": "318918d6de0d0225",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "React-named-effects.md",
     "Code Quality - Code Craftsmanship.md",
     "Git-fomo.md",
     "TODO.md",
@@ -236,15 +263,12 @@
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "Angular - Make sure things never change (Refactor).md",
     "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
-    "Personal take on React destructuring props.md",
     "images/Pasted image 20240725102110.png",
     "images/Pasted Image 20240618123827_830.png",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.36.06.excalidraw.md",
     "images/Pasted image 20240625124222.png",
     "images/Pasted Image 20240807112645_808.png",
     "images/Pasted Image 20240826133205_802.png",
     "images/Pasted Image 20240826133709_640.png",
-    "React.md",
     "images/Pasted Image 20240807111650_931.png",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
