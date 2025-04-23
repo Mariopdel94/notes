@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "React-named-effects"
             }
+          },
+          {
+            "id": "f58fc6ba6c161373",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,7 +247,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "318918d6de0d0225",
+  "active": "f58fc6ba6c161373",
   "lastOpenFiles": [
     "Untitled.md",
     "Untitled 1.md",
