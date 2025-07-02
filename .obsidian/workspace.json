@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XCode useful shortcuts.md",
+                "file": "Git-fomo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "XCode useful shortcuts"
+              "title": "Git-fomo"
             }
           }
         ]
@@ -188,15 +188,15 @@
   },
   "active": "c3f59434ac7dfefe",
   "lastOpenFiles": [
+    "Git - Get main branch name.md",
+    "Git-fomo.md",
+    "XCode useful shortcuts.md",
     "React-named-effects.md",
     "React file structure.md",
-    "XCode useful shortcuts.md",
     "Untitled.md",
     "Untitled 1.md",
     "Code Quality - Code Craftsmanship.md",
-    "Git-fomo.md",
     "TODO.md",
-    "Git - Get main branch name.md",
     "Audit - How to.md",
     "Testing.md",
     "testing new file.md",
