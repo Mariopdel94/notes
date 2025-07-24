@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git-fomo.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git-fomo"
+              "title": "Code Quality - Code Craftsmanship"
             }
           }
         ]
@@ -188,16 +188,21 @@
   },
   "active": "c3f59434ac7dfefe",
   "lastOpenFiles": [
-    "Git - Get main branch name.md",
+    "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
+    "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md",
+    "Code Quality - Code Craftsmanship.md",
+    "Visual guide to why DECLARATIVE code is better.md",
+    "What is \"imperative\" code?.md",
+    "Angular - \"I want to speak to your manager\".md",
+    "Audit - How to.md",
     "Git-fomo.md",
+    "Git - Get main branch name.md",
     "XCode useful shortcuts.md",
     "React-named-effects.md",
     "React file structure.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Code Quality - Code Craftsmanship.md",
     "TODO.md",
-    "Audit - How to.md",
     "Testing.md",
     "testing new file.md",
     "Git.md",
@@ -208,12 +213,7 @@
     "Do not use the `Array` constructor.md",
     "Declarative variable definitions.md",
     "Class names should be nouns.md",
-    "Visual guide to why DECLARATIVE code is better.md",
-    "What is \"imperative\" code?.md",
     "Angular - Make sure things never change.md",
-    "Angular - \"I want to speak to your manager\".md",
-    "Angular - \"I want to speak to your manager\" (Refactor).md",
-    "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
     "images/Pasted image 20240725102110.png",
     "images/Pasted Image 20240618123827_830.png",
     "images/Pasted image 20240625124222.png",
