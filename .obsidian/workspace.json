@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Git-fomo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Code Quality - Code Craftsmanship"
+              "title": "Git-fomo"
+            }
+          },
+          {
+            "id": "0158e2a62b859f41",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,10 +200,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3f59434ac7dfefe",
+  "active": "0158e2a62b859f41",
   "lastOpenFiles": [
-    "Personal take on React destructuring props.md",
+    "Git - Get main branch name.md",
+    "Git-fomo.md",
     "Code Quality - Code Craftsmanship.md",
+    "Personal take on React destructuring props.md",
     "Angular - \"I want to speak to your manager\".md",
     "Angular - \"I want to speak to your manager\" (Refactor).md",
     "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 13.03.18.excalidraw.md",
@@ -201,8 +217,6 @@
     "Visual guide to why DECLARATIVE code is better.md",
     "What is \"imperative\" code?.md",
     "Audit - How to.md",
-    "Git-fomo.md",
-    "Git - Get main branch name.md",
     "XCode useful shortcuts.md",
     "React-named-effects.md",
     "React file structure.md",
