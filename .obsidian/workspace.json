@@ -42,9 +42,33 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.9.12"
             }
+          },
+          {
+            "id": "d44ca01491e35c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Responses.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Responses"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,8 +224,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0158e2a62b859f41",
+  "active": "d44ca01491e35c66",
   "lastOpenFiles": [
+    "Responses.md",
+    "Pasted image 20251002164735.png",
     "Git - Get main branch name.md",
     "Git-fomo.md",
     "Code Quality - Code Craftsmanship.md",
@@ -226,8 +252,6 @@
     "Testing.md",
     "testing new file.md",
     "Git.md",
-    "Functions should do one thing.md",
-    "Functions - Meaningful context (example).md",
     "images/Pasted image 20240725102110.png",
     "images/Pasted Image 20240618123827_830.png",
     "images/Pasted image 20240625124222.png",
@@ -237,7 +261,6 @@
     "images/Pasted Image 20240807111650_931.png",
     "Pasted image 20240625100005.png",
     "Pasted image 20240625101016.png",
-    "Pasted image 20240625101927.png",
     "PDFs/React file structure.pdf",
     "Code Quality - Code Craftsmanship - CoP (Community of Practice).pdf",
     "PDFs",
