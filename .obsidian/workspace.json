@@ -66,9 +66,21 @@
               "icon": "lucide-file",
               "title": "Responses"
             }
+          },
+          {
+            "id": "93b6a9b1c2fa2802",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d44ca01491e35c66",
+  "active": "93b6a9b1c2fa2802",
   "lastOpenFiles": [
     "Responses.md",
     "Pasted image 20251002164735.png",
