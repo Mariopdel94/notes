@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3f59434ac7dfefe",
+            "id": "d01fc09a3450a1bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git-fomo.md",
+                "file": "Example of imperative vs reactive code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,71 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git-fomo"
-            }
-          },
-          {
-            "id": "0158e2a62b859f41",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
-            "id": "d44ca01491e35c66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Responses.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Responses"
-            }
-          },
-          {
-            "id": "93b6a9b1c2fa2802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular - Make sure things never change.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Angular - Make sure things never change"
+              "title": "Example of imperative vs reactive code"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,19 +187,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93b6a9b1c2fa2802",
+  "active": "d01fc09a3450a1bf",
   "lastOpenFiles": [
+    "Code Quality - Code Craftsmanship.md",
+    "Example of imperative vs reactive code.md",
+    "Make meaningful distinctions.md",
+    "Intention-Revealing Names (Example).md",
+    "Use Intention-Revealing Names.md",
+    "Class names should be nouns.md",
+    "Method names should be verbs.md",
+    "Angular - Make sure things never change.md",
     "Responses.md",
     "Pasted image 20251002164735.png",
     "Git - Get main branch name.md",
     "Git-fomo.md",
-    "Code Quality - Code Craftsmanship.md",
     "Personal take on React destructuring props.md",
     "Angular - \"I want to speak to your manager\".md",
     "Angular - \"I want to speak to your manager\" (Refactor).md",
     "Excalidraw/Angular - \"I want to speak to your manager\" 2024-06-18 13.03.18.excalidraw.md",
     "Excalidraw/Angular - Make sure things never change 2024-06-18 12.25.07.excalidraw.md",
-    "Angular - Make sure things never change.md",
     "Angular - Make sure things never change (Refactor).md",
     "Visual guide to \"changing a variable without changing it (reassigning it)\".md",
     "Excalidraw/Visual guide to \"changing a variable without changing it (reassigning it)\" 2024-08-07 10.48.47.excalidraw.md",
@@ -272,11 +216,6 @@
     "React-named-effects.md",
     "React file structure.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "TODO.md",
-    "Testing.md",
-    "testing new file.md",
-    "Git.md",
     "images/Pasted image 20240725102110.png",
     "images/Pasted Image 20240618123827_830.png",
     "images/Pasted image 20240625124222.png",
