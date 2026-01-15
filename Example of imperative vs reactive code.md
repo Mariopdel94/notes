@@ -1,6 +1,7 @@
+#angular  #clean-code  #example #good-practice 
 ## Imperative code / Manual subscriptions
 
-Take a look at this code, it is a simple searchbar with an autocomplete; do you see anything wrong with it? From a first look, and to the untrained eye it might look like everything is fine, in fact most sources will suggest a similar approach.
+Take a look at this code, it is a simple search bar with an autocomplete; do you see anything wrong with it? From a first look, and to the untrained eye it might look like everything is fine, in fact most sources will suggest a similar approach.
 
 ```typescript
 private readonly destroyRef = inject(DestroyRef)
@@ -59,7 +60,7 @@ readonly showSuggestions = signal(false)
 >
 ```
 
-The code that isn't necessarily bad. In fact is what most AI/LLMs would suggest, and what you will find in most StackOverflow answers... BUT this is usually how our brains start to work when we are coding, we tend to think on a set of steps to take to get to our goal, and we end up writing **imperative code**
+The code isn't necessarily bad. In fact is what most AI/LLMs would suggest, and what you will find in most StackOverflow answers... BUT this is usually how our brains start to work when we are coding, we tend to think on a set of steps to take to get to our goal, and we end up writing **imperative code**
 
 ### Main Problems
 
@@ -92,7 +93,7 @@ form = form(this.formModel, (schema) => {
 
 In here we specify the `debounce` on the schema directly on the form declaration. And we can remove `distinctUntilChanged` because a signal doesn't emit unless there's a value change.
 
-With that we know can change our declaration of the dependent variables:
+With that we now can change our declaration of the dependent variables:
 
 ```typescript
 readonly addressSuggestions = rxResource({
