@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example of imperative vs reactive code.md",
+                "file": "Code Quality - Code Craftsmanship.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Example of imperative vs reactive code"
+              "title": "Code Quality - Code Craftsmanship"
+            }
+          },
+          {
+            "id": "aa8253c35cf7f802",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#angular",
+                "query": "tag:#clean-code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +97,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,18 +201,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d01fc09a3450a1bf",
+  "active": "aa8253c35cf7f802",
   "lastOpenFiles": [
-    "Personal take on React destructuring props.md",
+    "Functions - Meaningful context (example).md",
+    "Class names should be nouns.md",
+    "Angular - Make sure things never change.md",
     "Example of imperative vs reactive code.md",
+    "Personal take on React destructuring props.md",
     "Pasted image 20251002164735.png",
     "Code Quality - Code Craftsmanship.md",
     "Make meaningful distinctions.md",
     "Intention-Revealing Names (Example).md",
     "Use Intention-Revealing Names.md",
-    "Class names should be nouns.md",
     "Method names should be verbs.md",
-    "Angular - Make sure things never change.md",
     "Responses.md",
     "Git - Get main branch name.md",
     "Git-fomo.md",
