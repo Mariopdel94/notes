@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality - Code Craftsmanship.md",
+                "file": "Naming Boolean variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Code Quality - Code Craftsmanship"
-            }
-          },
-          {
-            "id": "aa8253c35cf7f802",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "Naming Boolean variables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,15 +188,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa8253c35cf7f802",
+  "active": "d01fc09a3450a1bf",
   "lastOpenFiles": [
+    "[Modal.md",
+    "Naming Boolean variables.md",
+    "Code Quality - Code Craftsmanship.md",
     "Functions - Meaningful context (example).md",
     "Class names should be nouns.md",
     "Angular - Make sure things never change.md",
     "Example of imperative vs reactive code.md",
     "Personal take on React destructuring props.md",
     "Pasted image 20251002164735.png",
-    "Code Quality - Code Craftsmanship.md",
     "Make meaningful distinctions.md",
     "Intention-Revealing Names (Example).md",
     "Use Intention-Revealing Names.md",
@@ -228,8 +217,6 @@
     "What is \"imperative\" code?.md",
     "Audit - How to.md",
     "XCode useful shortcuts.md",
-    "React-named-effects.md",
-    "React file structure.md",
     "images/Pasted image 20240725102110.png",
     "images/Pasted Image 20240618123827_830.png",
     "images/Pasted image 20240625124222.png",
