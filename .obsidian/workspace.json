@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Naming Boolean variables"
             }
+          },
+          {
+            "id": "de8f91be92925149",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d01fc09a3450a1bf",
+  "active": "de8f91be92925149",
   "lastOpenFiles": [
     "[Modal.md",
     "Naming Boolean variables.md",
