@@ -124,3 +124,5 @@ What happened to `onSearchInput`? It got deleted, it is now no longer needed. An
 ```
 
 But because everything else **reacts** from the form value, resetting the form updates everything else automatically.
+
+![[Pasted image 20260430134049.png]]
