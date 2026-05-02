@@ -1,0 +1,57 @@
+.theme-light,
+.theme-dark {
+  --text-on-accent: #f8f8f2;
+  --interactive-normal: #bd93f9;
+  --interactive-hover: #9775c7;
+  --interactive-accent-hover: #9775c7;
+}
+
+.checkbox-container {
+  background-color: var(--background-primary);
+  border: 1px solid var(--background-accent);
+}
+.checkbox-container::after {
+  margin: 1px 0;
+}
+.checkbox-container.is-enabled {
+  background-color: var(--interactive-normal);
+  border: 1px solid transparent;
+}
+
+/***************************************/
+/*            settings                 */
+/***************************************/
+
+.modal.mod-settings button {
+  background-color: var(--interactive-normal);
+}
+.modal.mod-settings button:hover {
+  background-color: var(--interactive-accent-hover);
+}
+.horizontal-tab-nav-item.is-active,
+.vertical-tab-nav-item.is-active {
+  --background-modifier-hover: var(--interactive-normal) !important;
+  background-color: var(--interactive-normal) !important;
+}
+
+/***************************************/
+/*            Hide side bar            */
+/***************************************/
+
+/* .workspace-ribbon:not(:hover) .workspace-ribbon-collapse-btn,
+.workspace-ribbon:not(:hover) .side-dock-actions,
+.workspace-ribbon:not(:hover) .side-dock-settings {
+  display: none;
+  transition: all 300ms ease-in-out;
+}
+.workspace-ribbon:not(:hover) {
+  width: 0px;
+  transition: all 300ms ease-in-out;
+}
+
+.workspace-split.mod-left-split {
+  margin-left: 0px;
+}
+.workspace-split.mod-right-split {
+  margin-right: 0px;
+} */
