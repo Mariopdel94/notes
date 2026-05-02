@@ -11,8 +11,13 @@
             "id": "5d5b22fc0fa6b019",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Boy Scout Rule.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Boy Scout Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Boy Scout Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Boy Scout Rule.md"
+              }
             }
           }
         ],
@@ -142,8 +151,9 @@
   },
   "active": "5d5b22fc0fa6b019",
   "lastOpenFiles": [
-    "TypeScript-exports.md",
     "[Modal.md",
+    "dialog-example.png",
+    "TypeScript-exports.md",
     "Functions - Meaningful context (example).md",
     "Functions - No side effects.md",
     "Functions should do one thing.md",
@@ -177,7 +187,6 @@
     "Pasted image 20260430134049.png",
     "One variable per declaration.md",
     "Naming Boolean variables.md",
-    "Method names should be verbs.md",
     "Excalidraw",
     "New folder",
     "notes"
