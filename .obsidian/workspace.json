@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Boy Scout Rule.md",
+                "file": "[Modal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Boy Scout Rule.md",
+                "file": "[Modal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Boy Scout Rule.md",
+                "file": "[Modal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Boy Scout Rule.md"
+                "file": "[Modal.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "5d5b22fc0fa6b019",
   "lastOpenFiles": [
+    "The Boy Scout Rule.md",
     "[Modal.md",
     "dialog-example.png",
     "TypeScript-exports.md",
@@ -177,7 +178,6 @@
     "TypeScript Style Guide (Complete).md",
     "TypeScript Style Guide (Atomic Mode - Draft).md",
     "The best comment is no comment at all.md",
-    "The Boy Scout Rule.md",
     "Small things matter.md",
     "React.md",
     "React-named-effects.md",
