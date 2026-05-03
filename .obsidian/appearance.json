@@ -4,5 +4,6 @@
   "cssTheme": "Dracula for Obsidian",
   "baseFontSizeAction": false,
   "showViewHeader": true,
-  "translucency": false
+  "translucency": false,
+  "monospaceFontFamily": "Consolas"
 }
