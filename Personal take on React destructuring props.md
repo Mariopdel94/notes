@@ -1,3 +1,5 @@
+#react #good-practice 
+
 In react is common practice to destructure the props objects in each component like this:
 
 ```typescript

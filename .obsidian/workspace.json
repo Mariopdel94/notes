@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd601ef2f00a40d0",
+        "id": "fc328ee871f7ff1a",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5b22fc0fa6b019",
+            "id": "467c97371962ba12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "[Modal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#clean-code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 572.5
   },
   "right": {
     "id": "2377d4c52ace1237",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[Modal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[Modal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "[Modal.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,16 +140,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5d5b22fc0fa6b019",
+  "active": "889ccd83e6c7d5ce",
   "lastOpenFiles": [
-    "The Boy Scout Rule.md",
-    "[Modal.md",
-    "dialog-example.png",
-    "TypeScript-exports.md",
-    "Functions - Meaningful context (example).md",
     "Functions - No side effects.md",
-    "Functions should do one thing.md",
+    "Guide for React experimental debugger.md",
+    "Git-fomo.md",
+    "TypeScript Style Guide (Complete).md",
+    "TypeScript Style Guide (Atomic Mode - Draft).md",
+    "A Declarative Approach to Angular Material Dialogs.md",
+    "React-named-effects.md",
+    "React.md",
+    "React blank file template.md",
+    "Git.md",
+    "JSDocs.md",
+    "JSDocs-@fileoverview.md",
+    "Personal take on React destructuring props.md",
+    "Use Intention-Revealing Names.md",
+    "Visual guide to changing a variable without changing it (reassigning it).md",
+    "Visual guide to why DECLARATIVE code is better.md",
+    "Excalidraw/Visual guide to changing a variable without changing it (reassigning it) 2024-08-07 10.48.47.excalidraw.md",
+    "Functions - Meaningful context (example).md",
     "Functions - First Rule.md",
+    "dialog-example.png",
+    "The Boy Scout Rule.md",
+    "TypeScript-exports.md",
+    "Functions should do one thing.md",
     "images/react-file-structure.png",
     "images/Pasted Image 20240826133709_640.png",
     "images/Pasted Image 20240826133205_802.png",
@@ -170,23 +176,9 @@
     "images",
     "XCode useful shortcuts.md",
     "What is imperative code.md",
-    "Visual guide to why DECLARATIVE code is better.md",
-    "Visual guide to changing a variable without changing it (reassigning it).md",
     "Use const and let.md",
-    "Use Intention-Revealing Names.md",
     "TypeScript-imports.md",
-    "TypeScript Style Guide (Complete).md",
-    "TypeScript Style Guide (Atomic Mode - Draft).md",
-    "The best comment is no comment at all.md",
-    "Small things matter.md",
-    "React.md",
-    "React-named-effects.md",
-    "React file structure.md",
-    "React blank file template.md",
-    "Personal take on React destructuring props.md",
     "Pasted image 20260430134049.png",
-    "One variable per declaration.md",
-    "Naming Boolean variables.md",
     "Excalidraw",
     "New folder",
     "notes"
