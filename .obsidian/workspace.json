@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "A Declarative Approach to Angular Material Dialogs"
             }
-          },
-          {
-            "id": "f5757ccce5be6a12",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A Declarative Approach to Angular Material Dialogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for A Declarative Approach to Angular Material Dialogs"
             }
           },
           {
@@ -135,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A Declarative Approach to Angular Material Dialogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from A Declarative Approach to Angular Material Dialogs"
             }
           },
           {
@@ -163,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "A Declarative Approach to Angular Material Dialogs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of A Declarative Approach to Angular Material Dialogs"
             }
           },
           {
@@ -204,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5757ccce5be6a12",
+  "active": "467c97371962ba12",
   "lastOpenFiles": [
     "Functions - No side effects.md",
     "Guide for React experimental debugger.md",

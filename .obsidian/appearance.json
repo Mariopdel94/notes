@@ -5,5 +5,9 @@
   "baseFontSizeAction": false,
   "showViewHeader": true,
   "translucency": false,
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas,Monaspace Argon NF",
+  "enabledCssSnippets": [
+    "dracula-overrides",
+    "font"
+  ]
 }

@@ -1,0 +1,4 @@
+.markdown-preview-view pre > code {
+  /* font-family: 'Consolas', 'Courier New', monospace; */
+  font-family: var(--font-monospace) !important;
+}
